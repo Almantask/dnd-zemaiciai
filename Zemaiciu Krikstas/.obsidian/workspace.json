@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "0497bafb75382d6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "98e3c71c38ad6add",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4d2406265769132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kryžiuočių Ordinas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45a997935b146fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1260-06-13 Durbės mūšis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5b2c59124c9e631",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Žemaitija.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7f8f61eb2f3392e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Žemaitija.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "030b8597a38d5902",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1411X Jeronimas Prahiškis misionierius.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "170c6c114721e45a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aušros grapštas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1a40ec42c819299",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0746069e1477a31",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0eb46eb9cb299bee",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fa9ab58ed1bd7fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc23be36ee8a30dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41832398d12817cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "840f8c17e3c633b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 509.5
+  },
+  "right": {
+    "id": "d8bf2ba3ee46a72d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d727a2bb72b52334",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d1ed2e42ed80dfa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "abe1f1b9656c1ce2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b334187293c090ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f736fd105f419ea7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d0746069e1477a31",
+  "lastOpenFiles": [
+    "Kęstučiui.md",
+    "1259 žk 2.md",
+    "1236 Saulės mūšis.md",
+    "1253 žk 1.md",
+    "1382 Dubysos sutartis - žk 3.md",
+    "1398 Salyno sutartis - žk 4.md",
+    "1404 Racionžo sutartis - žk 5.md",
+    "1409-1422 3 žemaitijos karai.md",
+    "1410-07-15 Žalgirio Mūšis.md",
+    "1411-02-01 Torūnės taika - žemaičiai LDK.md",
+    "1411X Jeronimas Prahiškis misionierius.md",
+    "1413 Žemaitijos krikšto pradžia.md",
+    "Vytautas.md",
+    "Žemaitija.md",
+    "Mindaugas.md",
+    "Pasted image 20240714223635.png.md",
+    "Jogaila.md",
+    "Algirdas.md",
+    "Skirgaila.md",
+    "Kryžiuočių Ordinas.md",
+    "Kaimas žemaitijoje.md",
+    "Aušros grapštas.md",
+    "1417-10-24 Vyskupai.md",
+    "1421 popiežiaus raštas žemaičiams.md",
+    "1414 - 1418 Konstancos susirinkimas.md",
+    "Kalavijuočių ordinas.md",
+    "Untitled.canvas",
+    "Pasted image 20240714223635.png"
+  ]
+}
