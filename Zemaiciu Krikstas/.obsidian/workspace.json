@@ -4,99 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "98e3c71c38ad6add",
+        "id": "1b80285119dc3814",
         "type": "tabs",
         "children": [
           {
-            "id": "c4d2406265769132",
+            "id": "356fed0cc694ee84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kryžiuočių Ordinas.md",
+                "file": "Dabar/Žemaitija.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "45a997935b146fef",
+            "id": "5298edfb7b6d90ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1260-06-13 Durbės mūšis.md",
+                "file": "LDK XIV a. pradžioje - private.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "f5b2c59124c9e631",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Žemaitija.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7f8f61eb2f3392e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Žemaitija.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "030b8597a38d5902",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1411X Jeronimas Prahiškis misionierius.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "170c6c114721e45a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aušros grapštas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1a40ec42c819299",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d0746069e1477a31",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LDK XIV a. pradžioje - private.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LDK XIV a. pradžioje - private.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,6 +137,46 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "LDK XIV a. pradžioje - private.md"
+              }
+            }
+          },
+          {
+            "id": "1cd73e0133d02fc0",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e64be7815f083161",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "f3b38d6f28495b6a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ff0031662688c034",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66f91c4198bdd000",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
               "state": {}
             }
           }
@@ -206,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 784.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,38 +194,54 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "omnisearch:Omnisearch": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-gallery:Gallery": false
     }
   },
-  "active": "d0746069e1477a31",
+  "active": "5298edfb7b6d90ad",
   "lastOpenFiles": [
-    "Kęstučiui.md",
-    "1259 žk 2.md",
-    "1236 Saulės mūšis.md",
-    "1253 žk 1.md",
-    "1382 Dubysos sutartis - žk 3.md",
-    "1398 Salyno sutartis - žk 4.md",
-    "1404 Racionžo sutartis - žk 5.md",
-    "1409-1422 3 žemaitijos karai.md",
-    "1410-07-15 Žalgirio Mūšis.md",
-    "1411-02-01 Torūnės taika - žemaičiai LDK.md",
-    "1411X Jeronimas Prahiškis misionierius.md",
-    "1413 Žemaitijos krikšto pradžia.md",
-    "Vytautas.md",
-    "Žemaitija.md",
-    "Mindaugas.md",
-    "Pasted image 20240714223635.png.md",
-    "Jogaila.md",
-    "Algirdas.md",
-    "Skirgaila.md",
-    "Kryžiuočių Ordinas.md",
-    "Kaimas žemaitijoje.md",
-    "Aušros grapštas.md",
-    "1417-10-24 Vyskupai.md",
-    "1421 popiežiaus raštas žemaičiams.md",
-    "1414 - 1418 Konstancos susirinkimas.md",
-    "Kalavijuočių ordinas.md",
+    "LDK XIV a. pradžioje - public.md",
+    "LDK XIV a. pradžioje - private.md",
+    "Ateitis/Klaipėda.md",
+    "xImages/Jagajła._Ягайла_(M._Godlewski,_1863).jpg",
+    "xImages/vytautas-didysis-artas-iš-belarusijos-didvyriai-svetainės-v0-68bevp2zt0b91.jpg",
+    "Dabar/Žemaitija.md",
+    "Dabar/Vytautas.md",
+    "Dabar/Jogaila.md",
+    "Dabar/1409 žemaičių sukilimas.md",
+    "xImages/LDK-map.jpeg",
+    "xImages/Pasted image 20240719230848.png",
+    "xImages/file-07bpkOYrFsXpIOjDQNQaLF7N.webp",
+    "xImages/Atlas_Van_der_Hagen-KW1049B10_039-MAGNI_DVCATVS_LITHVANIAE,_et_Regionum_Adiacentium_exacta_Descriptio_....jpeg.crdownload",
     "Untitled.canvas",
+    "Ateitis/1409-1422 3 žemaitijos karai.md",
+    "Dabar/Rumbaudas Valimantaitis.md",
+    "Dabar/Mykolas Kęsgaila Valimantaitis.md",
+    "Dabar/Livonijos ordinas.md",
+    "Dabar/Kryžiuočių Ordinas.md",
+    "Dabar/Kaimas žemaitijoje.md",
+    "Ateitis/1418 žemaičių sukilimas.md",
+    "xImages",
+    "Ateitis/Jeronimas Prahiškis misionierius.md",
+    "Pre - labai senai/Kalavijuočių ordinas.md",
+    "Ateitis/1415-11-28 Konstancos susirinkime žemaičiai LDK.md",
+    "Ateitis/1417-10-24 Vyskupai.md",
+    "Ateitis/1421 popiežiaus raštas žemaičiams.md",
+    "Ateitis/Aušros grapštas.md",
+    "Ateitis/Melno taika.md",
+    "Ateitis/Skirsnemunės pilis.md",
+    "Ateitis/Rumbaudas Valimaitis.md",
+    "Ateitis/1410-07-15 Žalgirio Mūšis.md",
+    "Ateitis/1414 - 1418 Konstancos susirinkimas.md",
+    "Ateitis",
+    "Dabar",
+    "Pre - arti",
+    "Pre - labai senai",
     "Pasted image 20240714223635.png"
   ]
 }

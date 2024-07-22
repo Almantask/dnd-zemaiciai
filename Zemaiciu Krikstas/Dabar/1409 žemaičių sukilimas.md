@@ -1,0 +1,4 @@
+Žemaičių kova prieš Vokiečių ordino jungą virto **1409 sukilimu.** 1409 05 buvo sudeginta Ordino [[Skirsnemunės pilis]] ir išžudyti riteriai. Kita sukilėlių dalis puolė [[Klaipėdą]] ir, nors pilies užimti neįstengė, padarė daug nuostolių vokiečių kolonijai. Į pagalbą žemaičiams Vytauto nurodymu iš Lietuvos Didžiosios Kunigaikštystės atvyko bajoro [[Rumbaudas Valimaitis]] vadovaujamas raitelių dalinys. Sukilėliai išvijo kryžiuočius iš svarbiausių pilių.
+
+Išsivadavusi iš Vokiečių ordino valdžios Žemaitija 1409 susijungė su likusia Lietuvos dalimi ir pripažino Vytauto valdžią. Vokiečių ordinui liko pajūrio sritis su Klaipėda. [[Kryžiuočių Ordinas]] ir [[Livonijos ordinas]] teritorijos nesusijungė. Vytauto parama žemaičiams buvo viena 1410 [Žalgirio mūšio](https://www.vle.lt/110580) priežasčių.
+

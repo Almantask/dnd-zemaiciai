@@ -1,0 +1,143 @@
+{
+  "mapMarkers": [
+    {
+      "id": "ldk-xiv",
+      "lastAccessed": 1721679683765,
+      "markers": [
+        {
+          "id": "ID_9bc99b3a1818",
+          "type": "default",
+          "loc": [
+            -3.86761474609375,
+            6.6611328125
+          ],
+          "layer": "%5B%5BLDK-map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Vilnius",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38c96aca69f9",
+          "type": "default",
+          "loc": [
+            -1.19183349609375,
+            7.9619140625
+          ],
+          "link": "Klaipėda",
+          "layer": "%5B%5BLDK-map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Klaipėda",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8da7bca6a29",
+          "type": "default",
+          "loc": [
+            -3.94091796875,
+            6.6015625
+          ],
+          "layer": "%5B%5BLDK-map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c888d9c97aba",
+          "type": "default",
+          "loc": [
+            -4.101776123046875,
+            5.03564453125
+          ],
+          "layer": "%5B%5BLDK-map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "LDK XIV a. pradžioje - public.md",
+        "LDK XIV a. pradžioje - private.md"
+      ]
+    },
+    {
+      "id": "ldk-xiv-private",
+      "lastAccessed": 1721679683765,
+      "markers": [
+        {
+          "id": "ID_090b9899aa0a",
+          "type": "default",
+          "loc": [
+            -3.859588623046875,
+            6.67822265625
+          ],
+          "layer": "%5B%5BLDK-map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "LDK XIV a. pradžioje - private.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
