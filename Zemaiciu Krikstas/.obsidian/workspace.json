@@ -4,246 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "1b80285119dc3814",
+        "id": "4eb106c96ab5ebf6",
         "type": "tabs",
         "children": [
           {
-            "id": "9656e8a420e8b6c3",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": [
-                [
-                  {
-                    "name": "Spy",
-                    "source": "5e SRD",
-                    "size": "Medium",
-                    "type": "humanoid",
-                    "subtype": "any race",
-                    "alignment": "any alignment",
-                    "ac": 12,
-                    "hp": 27,
-                    "hit_dice": "6d8",
-                    "speed": "30 ft.",
-                    "stats": [
-                      10,
-                      15,
-                      10,
-                      12,
-                      14,
-                      16
-                    ],
-                    "skillsaves": [
-                      {
-                        "deception": 5
-                      },
-                      {
-                        "insight": 4
-                      },
-                      {
-                        "investigation": 5
-                      },
-                      {
-                        "perception": 6
-                      },
-                      {
-                        "persuasion": 5
-                      },
-                      {
-                        "stealth": 4
-                      }
-                    ],
-                    "damage_vulnerabilities": "",
-                    "damage_resistances": "",
-                    "damage_immunities": "",
-                    "condition_immunities": "",
-                    "senses": "passive Perception 16",
-                    "languages": "any two languages",
-                    "cr": "1",
-                    "bestiary": true,
-                    "traits": [
-                      {
-                        "name": "Cunning Action",
-                        "desc": "On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.",
-                        "attack_bonus": 0
-                      },
-                      {
-                        "name": "Sneak Attack (1/Turn)",
-                        "desc": "The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.",
-                        "attack_bonus": 0,
-                        "damage_dice": "2d6"
-                      }
-                    ],
-                    "actions": [
-                      {
-                        "name": "Multiattack",
-                        "desc": "The spy makes two melee attacks.",
-                        "attack_bonus": 0
-                      },
-                      {
-                        "name": "Shortsword",
-                        "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
-                        "attack_bonus": 4,
-                        "damage_dice": "1d6",
-                        "damage_bonus": 2
-                      },
-                      {
-                        "name": "Hand Crossbow",
-                        "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
-                        "attack_bonus": 4,
-                        "damage_dice": "1d6",
-                        "damage_bonus": 2
-                      }
-                    ]
-                  },
-                  1
-                ],
-                [
-                  {
-                    "name": "Level 2 Fighter",
-                    "size": "Medium",
-                    "type": "Humanoid",
-                    "subtype": "Human",
-                    "alignment": "Lawful Neutral",
-                    "ac": "16 (Chain Mail, Shield)",
-                    "hp": 20,
-                    "hit_dice": "2d10",
-                    "speed": "30 ft.",
-                    "stats": [
-                      16,
-                      14,
-                      14,
-                      10,
-                      12,
-                      10
-                    ],
-                    "fage_stats": [
-                      3,
-                      2,
-                      2,
-                      1,
-                      1,
-                      1,
-                      1,
-                      1,
-                      1
-                    ],
-                    "saves": [
-                      {
-                        "Strength": 5
-                      },
-                      {
-                        "Constitution": 4
-                      }
-                    ],
-                    "skillsaves": [
-                      {
-                        "Athletics": 5
-                      },
-                      {
-                        "Perception": 3
-                      }
-                    ],
-                    "damage_vulnerabilities": "None",
-                    "damage_resistances": "None",
-                    "damage_immunities": "None",
-                    "condition_immunities": "None",
-                    "senses": "Passive Perception 13",
-                    "languages": "Common",
-                    "cr": "1/2",
-                    "spells": [
-                      "None"
-                    ],
-                    "traits": [
-                      [
-                        {
-                          "Fighting Style": "Defense"
-                        },
-                        "While the fighter is wearing armor",
-                        "they gain a +1 bonus to AC."
-                      ],
-                      [
-                        "Second Wind",
-                        "The fighter can use a bonus action to regain hit points equal to 1d10 + 2 (once per short or long rest)."
-                      ],
-                      [
-                        "Action Surge (1/short rest)",
-                        "On their turn",
-                        "the fighter can take one additional action. This can be used once per short or long rest."
-                      ]
-                    ],
-                    "actions": [
-                      [
-                        "Longsword",
-                        {
-                          "Melee Weapon Attack": "+5 to hit"
-                        },
-                        "reach 5 ft.",
-                        {
-                          "one target. Hit": "1d8 + 3 slashing damage (1d10 + 3 if used with two hands)."
-                        }
-                      ],
-                      [
-                        "Shortbow",
-                        {
-                          "Ranged Weapon Attack": "+4 to hit"
-                        },
-                        "range 80/320 ft.",
-                        {
-                          "one target. Hit": "1d6 + 2 piercing damage."
-                        }
-                      ]
-                    ],
-                    "legendary_actions": [
-                      "None"
-                    ],
-                    "reactions": [
-                      "None"
-                    ]
-                  },
-                  2
-                ]
-              ]
-            }
-          },
-          {
-            "id": "4028a1b13d1f106e",
+            "id": "cc1bcb8f8a801dab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesijos/Aktas I/Sesija 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e9d40884f206865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daugpilis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bd33a57e3e93a01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesijos/Aktas I/Sesija 1.md",
+                "file": "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "ef60ef19efb57446",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51f120138840a0bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Muzika/Garsai mixuoti su kitais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -309,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sesijos/Aktas I/Sesija 1.md",
+                "file": "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sesijos/Aktas I/Sesija 1.md",
+                "file": "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -349,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesijos/Aktas I/Sesija 1.md"
+                "file": "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md"
               }
             }
           },
@@ -428,35 +222,39 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "8bd33a57e3e93a01",
+  "active": "cc1bcb8f8a801dab",
   "lastOpenFiles": [
-    "Žemėlapiai/LDK XIV a. pradžioje - public.md",
-    "Daugpilis.md",
-    "Žemėlapiai/LDK XIV a. pradžioje - private.md",
-    "Žemėlapiai/LDK XIV a. pradžioje - blank.md",
-    "Sesijos/Aktas I/Sesija 1.md",
-    "Mẽdininkai (Varniai).md",
+    "Muzika/Miškas.md",
+    "Muzika/Gaudynės.md",
+    "Muzika/Dievybės ar šventa.md",
+    "Muzika/Garsai mixuoti su kitais.md",
+    "Muzika/Sėlina.md",
+    "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md",
+    "Muzika/Dialogas.md",
+    "Muzika/Kaimas ar miestas.md",
+    "Muzika/Juokinga.md",
+    "Muzika/Bosas.md",
+    "Muzika/Kelionė.md",
+    "Muzika/Kova.md",
+    "Muzika/Taverna.md",
     "Sesijos/Aktas I/Sesija 0.md",
-    "Memelis(Klaipėda).md",
-    "Mẽdininkai.md",
-    "Sesijos/Aktas I/Sesija 2.md",
-    "Vietovės/Žemaitija.md",
-    "Būtybės/Kryžiuočių riteris.md",
-    "Būtybės/Pinčiukas.md",
-    "Būtybės/Kaukas - variantas su karstu medyje.md",
-    "Aktai/Aktas II.md",
-    "Aktai/Aktas I.md",
-    "Daiktai/Aušros grapštas.md",
-    "xImages/Pasted image 20240824084104.png",
-    "Asmenybės/Albrechtas - kryžiuočių pasiuntinys.md",
-    "Aktai/Aktas IV.md",
-    "Organizacijos/Rusios Kunigaikštystė.md",
-    "Organizacijos/Livonijos ordinas.md",
-    "Organizacijos/LDK.md",
-    "Organizacijos/Lenkija.md",
-    "Organizacijos/Aukso Orda.md",
-    "Organizacijos/Žemaičiai.md",
+    "Muzika.md",
+    "Muzika/Paslaptinga.md",
+    "Muzika/Special.md",
+    "Muzika/Požemis Nusiaubta Vaiduokliai.md",
+    "Muzika/Požemis.md",
+    "Muzika/Laužavietė.md",
+    "Muzika/Intensyvu.md",
+    "Muzika/Paslaptinga",
+    "Muzika",
     "Vietovės/Velnio Duobė.md",
+    "Vietovės/Penkūno Kalnas.md",
+    "Vietovės/Mẽdininkai (Varniai).md",
+    "Sesijos/Aktas I/Idėjos.md",
+    "Vietovės/Daugpilis.md",
+    "Muzika",
+    "Paslaugos",
+    "xImages/Pasted image 20240824084104.png",
     "Grupė",
     "xImages/vytautas-didysis-artas-iš-belarusijos-didvyriai-svetainės-v0-68bevp2zt0b91.jpg",
     "xImages/LDK-map.jpeg",
@@ -468,10 +266,6 @@
     "Aktai/Untitled",
     "Aktai/Aktas I",
     "Būtybės",
-    "Aktai",
-    "Organizacijos",
-    "Daiktai",
-    "Požemiai",
     "Untitled.canvas",
     "Pasted image 20240714223635.png"
   ]

@@ -1,0 +1,1 @@
+Kažkoks whacky, crazy character žiauriai OP. To neparodo. Kai priešas atrodo beviltiškai galingas jis atkeliauja ir BAM. Nutrenktas žaibo ar pan.

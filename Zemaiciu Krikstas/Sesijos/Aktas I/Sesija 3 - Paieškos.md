@@ -1,6 +1,3 @@
-Tiesiog geriat bare ir įsibrauna kryžiuočiai į kaimą.
-[[Markvard von Salzbach]] veda įsibrovimą.  Slėptis. Kažką padaro, supykstat, norit kerštaut.
-[[Pinčiukas]] apsimetęs ragana siūlo pagalbą - stebuklingų daiktų vietą - už aukso [[Aušros grapštas]] jam.
 [[Kaukas - variantas su karstu medyje]]
 
 Harpy - yes
