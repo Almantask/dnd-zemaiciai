@@ -1,0 +1,3 @@
+Vietiniame kaime, kuriame jūs apsistojot tik ką baigėsi sėja. Dabar žmonės švenčia Jorę. Jorė yra viena iš pagrindinių švenčių, susijusių su pavasario atėjimu ir žemdirbystės sezono pradžia. Ji švenčiama, kai gamta pradeda busti po žiemos, ir prasideda sėjos darbai. Šios šventės metu buvo pagerbiama Jorė – deivė, susijusi su gyvybe, vaisingumu ir augimu. Buvo atliekami įvairūs ritualai, siekiant užtikrinti gerą derlių ir augalų augimą, pavyzdžiui, pirmąją pavasario žolę šventindavo ugnimi arba vandeniu.
+
+Vienas iš šventės momentų - yra įgūdžių konkursas Jorės garbei.

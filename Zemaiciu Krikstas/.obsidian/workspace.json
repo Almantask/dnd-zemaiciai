@@ -8,31 +8,242 @@
         "type": "tabs",
         "children": [
           {
-            "id": "356fed0cc694ee84",
+            "id": "9656e8a420e8b6c3",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [
+                [
+                  {
+                    "name": "Spy",
+                    "source": "5e SRD",
+                    "size": "Medium",
+                    "type": "humanoid",
+                    "subtype": "any race",
+                    "alignment": "any alignment",
+                    "ac": 12,
+                    "hp": 27,
+                    "hit_dice": "6d8",
+                    "speed": "30 ft.",
+                    "stats": [
+                      10,
+                      15,
+                      10,
+                      12,
+                      14,
+                      16
+                    ],
+                    "skillsaves": [
+                      {
+                        "deception": 5
+                      },
+                      {
+                        "insight": 4
+                      },
+                      {
+                        "investigation": 5
+                      },
+                      {
+                        "perception": 6
+                      },
+                      {
+                        "persuasion": 5
+                      },
+                      {
+                        "stealth": 4
+                      }
+                    ],
+                    "damage_vulnerabilities": "",
+                    "damage_resistances": "",
+                    "damage_immunities": "",
+                    "condition_immunities": "",
+                    "senses": "passive Perception 16",
+                    "languages": "any two languages",
+                    "cr": "1",
+                    "bestiary": true,
+                    "traits": [
+                      {
+                        "name": "Cunning Action",
+                        "desc": "On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.",
+                        "attack_bonus": 0
+                      },
+                      {
+                        "name": "Sneak Attack (1/Turn)",
+                        "desc": "The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.",
+                        "attack_bonus": 0,
+                        "damage_dice": "2d6"
+                      }
+                    ],
+                    "actions": [
+                      {
+                        "name": "Multiattack",
+                        "desc": "The spy makes two melee attacks.",
+                        "attack_bonus": 0
+                      },
+                      {
+                        "name": "Shortsword",
+                        "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+                        "attack_bonus": 4,
+                        "damage_dice": "1d6",
+                        "damage_bonus": 2
+                      },
+                      {
+                        "name": "Hand Crossbow",
+                        "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+                        "attack_bonus": 4,
+                        "damage_dice": "1d6",
+                        "damage_bonus": 2
+                      }
+                    ]
+                  },
+                  1
+                ],
+                [
+                  {
+                    "name": "Level 2 Fighter",
+                    "size": "Medium",
+                    "type": "Humanoid",
+                    "subtype": "Human",
+                    "alignment": "Lawful Neutral",
+                    "ac": "16 (Chain Mail, Shield)",
+                    "hp": 20,
+                    "hit_dice": "2d10",
+                    "speed": "30 ft.",
+                    "stats": [
+                      16,
+                      14,
+                      14,
+                      10,
+                      12,
+                      10
+                    ],
+                    "fage_stats": [
+                      3,
+                      2,
+                      2,
+                      1,
+                      1,
+                      1,
+                      1,
+                      1,
+                      1
+                    ],
+                    "saves": [
+                      {
+                        "Strength": 5
+                      },
+                      {
+                        "Constitution": 4
+                      }
+                    ],
+                    "skillsaves": [
+                      {
+                        "Athletics": 5
+                      },
+                      {
+                        "Perception": 3
+                      }
+                    ],
+                    "damage_vulnerabilities": "None",
+                    "damage_resistances": "None",
+                    "damage_immunities": "None",
+                    "condition_immunities": "None",
+                    "senses": "Passive Perception 13",
+                    "languages": "Common",
+                    "cr": "1/2",
+                    "spells": [
+                      "None"
+                    ],
+                    "traits": [
+                      [
+                        {
+                          "Fighting Style": "Defense"
+                        },
+                        "While the fighter is wearing armor",
+                        "they gain a +1 bonus to AC."
+                      ],
+                      [
+                        "Second Wind",
+                        "The fighter can use a bonus action to regain hit points equal to 1d10 + 2 (once per short or long rest)."
+                      ],
+                      [
+                        "Action Surge (1/short rest)",
+                        "On their turn",
+                        "the fighter can take one additional action. This can be used once per short or long rest."
+                      ]
+                    ],
+                    "actions": [
+                      [
+                        "Longsword",
+                        {
+                          "Melee Weapon Attack": "+5 to hit"
+                        },
+                        "reach 5 ft.",
+                        {
+                          "one target. Hit": "1d8 + 3 slashing damage (1d10 + 3 if used with two hands)."
+                        }
+                      ],
+                      [
+                        "Shortbow",
+                        {
+                          "Ranged Weapon Attack": "+4 to hit"
+                        },
+                        "range 80/320 ft.",
+                        {
+                          "one target. Hit": "1d6 + 2 piercing damage."
+                        }
+                      ]
+                    ],
+                    "legendary_actions": [
+                      "None"
+                    ],
+                    "reactions": [
+                      "None"
+                    ]
+                  },
+                  2
+                ]
+              ]
+            }
+          },
+          {
+            "id": "4028a1b13d1f106e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dabar/Žemaitija.md",
+                "file": "Sesijos/Aktas I/Sesija 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5298edfb7b6d90ad",
+            "id": "6e9d40884f206865",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDK XIV a. pradžioje - private.md",
+                "file": "Daugpilis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bd33a57e3e93a01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesijos/Aktas I/Sesija 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDK XIV a. pradžioje - private.md",
+                "file": "Sesijos/Aktas I/Sesija 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDK XIV a. pradžioje - private.md",
+                "file": "Sesijos/Aktas I/Sesija 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDK XIV a. pradžioje - private.md"
+                "file": "Sesijos/Aktas I/Sesija 1.md"
               }
             }
           },
@@ -166,7 +377,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "ff0031662688c034",
@@ -181,11 +393,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "48c023accdcdc4e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bae14dede45654d1",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 784.5,
-    "collapsed": true
+    "width": 784.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,45 +428,51 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "5298edfb7b6d90ad",
+  "active": "8bd33a57e3e93a01",
   "lastOpenFiles": [
-    "LDK XIV a. pradžioje - public.md",
-    "LDK XIV a. pradžioje - private.md",
-    "Ateitis/Klaipėda.md",
-    "xImages/Jagajła._Ягайла_(M._Godlewski,_1863).jpg",
+    "Žemėlapiai/LDK XIV a. pradžioje - public.md",
+    "Daugpilis.md",
+    "Žemėlapiai/LDK XIV a. pradžioje - private.md",
+    "Žemėlapiai/LDK XIV a. pradžioje - blank.md",
+    "Sesijos/Aktas I/Sesija 1.md",
+    "Mẽdininkai (Varniai).md",
+    "Sesijos/Aktas I/Sesija 0.md",
+    "Memelis(Klaipėda).md",
+    "Mẽdininkai.md",
+    "Sesijos/Aktas I/Sesija 2.md",
+    "Vietovės/Žemaitija.md",
+    "Būtybės/Kryžiuočių riteris.md",
+    "Būtybės/Pinčiukas.md",
+    "Būtybės/Kaukas - variantas su karstu medyje.md",
+    "Aktai/Aktas II.md",
+    "Aktai/Aktas I.md",
+    "Daiktai/Aušros grapštas.md",
+    "xImages/Pasted image 20240824084104.png",
+    "Asmenybės/Albrechtas - kryžiuočių pasiuntinys.md",
+    "Aktai/Aktas IV.md",
+    "Organizacijos/Rusios Kunigaikštystė.md",
+    "Organizacijos/Livonijos ordinas.md",
+    "Organizacijos/LDK.md",
+    "Organizacijos/Lenkija.md",
+    "Organizacijos/Aukso Orda.md",
+    "Organizacijos/Žemaičiai.md",
+    "Vietovės/Velnio Duobė.md",
+    "Grupė",
     "xImages/vytautas-didysis-artas-iš-belarusijos-didvyriai-svetainės-v0-68bevp2zt0b91.jpg",
-    "Dabar/Žemaitija.md",
-    "Dabar/Vytautas.md",
-    "Dabar/Jogaila.md",
-    "Dabar/1409 žemaičių sukilimas.md",
     "xImages/LDK-map.jpeg",
     "xImages/Pasted image 20240719230848.png",
+    "xImages/Jagajła._Ягайла_(M._Godlewski,_1863).jpg",
     "xImages/file-07bpkOYrFsXpIOjDQNQaLF7N.webp",
-    "xImages/Atlas_Van_der_Hagen-KW1049B10_039-MAGNI_DVCATVS_LITHVANIAE,_et_Regionum_Adiacentium_exacta_Descriptio_....jpeg.crdownload",
+    "Žemėlapiai",
+    "Sesijos/Aktas I",
+    "Aktai/Untitled",
+    "Aktai/Aktas I",
+    "Būtybės",
+    "Aktai",
+    "Organizacijos",
+    "Daiktai",
+    "Požemiai",
     "Untitled.canvas",
-    "Ateitis/1409-1422 3 žemaitijos karai.md",
-    "Dabar/Rumbaudas Valimantaitis.md",
-    "Dabar/Mykolas Kęsgaila Valimantaitis.md",
-    "Dabar/Livonijos ordinas.md",
-    "Dabar/Kryžiuočių Ordinas.md",
-    "Dabar/Kaimas žemaitijoje.md",
-    "Ateitis/1418 žemaičių sukilimas.md",
-    "xImages",
-    "Ateitis/Jeronimas Prahiškis misionierius.md",
-    "Pre - labai senai/Kalavijuočių ordinas.md",
-    "Ateitis/1415-11-28 Konstancos susirinkime žemaičiai LDK.md",
-    "Ateitis/1417-10-24 Vyskupai.md",
-    "Ateitis/1421 popiežiaus raštas žemaičiams.md",
-    "Ateitis/Aušros grapštas.md",
-    "Ateitis/Melno taika.md",
-    "Ateitis/Skirsnemunės pilis.md",
-    "Ateitis/Rumbaudas Valimaitis.md",
-    "Ateitis/1410-07-15 Žalgirio Mūšis.md",
-    "Ateitis/1414 - 1418 Konstancos susirinkimas.md",
-    "Ateitis",
-    "Dabar",
-    "Pre - arti",
-    "Pre - labai senai",
     "Pasted image 20240714223635.png"
   ]
 }

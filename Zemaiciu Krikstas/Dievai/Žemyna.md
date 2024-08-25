@@ -1,0 +1,1 @@
+Gyvena miško rūmuose, [[Žaliųjų ežerų miškas]]. Kartu su [[Medeina]].

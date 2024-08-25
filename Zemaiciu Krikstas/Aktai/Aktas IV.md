@@ -1,0 +1,1 @@
+1417-1422 Dievų kovos. Vieni kitų sunaikinimas. Pagonybės pabaiga.

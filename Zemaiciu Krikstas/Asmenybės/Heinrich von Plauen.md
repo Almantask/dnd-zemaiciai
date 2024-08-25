@@ -1,0 +1,1 @@
+Vokiečių ordino didysis magistras po Ulricho von Jungingeno mirties. Heinrichas von Plauen organizavo ordino gynybą po Žalgirio mūšio ir vadovavo Marienburgo pilies (dabartinė Malborko pilis) gynybai nuo Lenkijos-Lietuvos kariuomenės.

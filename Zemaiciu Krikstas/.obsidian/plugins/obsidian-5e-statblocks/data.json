@@ -1,10 +1,503 @@
 {
-  "monsters": [],
+  "monsters": [
+    [
+      "Level 1 Druid",
+      {
+        "name": "Level 1 Druid",
+        "size": "Medium",
+        "type": "Humanoid",
+        "subtype": "Human",
+        "alignment": "Neutral Good",
+        "ac": 14,
+        "hp": 9,
+        "hit_dice": "1d8",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          14,
+          12,
+          10,
+          15,
+          11
+        ],
+        "fage_stats": [
+          1,
+          1,
+          2,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "saves": [
+          {
+            "Wisdom": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "Nature": 2
+          },
+          {
+            "Perception": 4
+          }
+        ],
+        "damage_vulnerabilities": "None",
+        "damage_resistances": "None",
+        "damage_immunities": "None",
+        "condition_immunities": "None",
+        "senses": "Passive Perception 14",
+        "languages": "Common, Druidic",
+        "cr": "1/4",
+        "spells": [
+          {
+            "Cantrips": "Druidcraft, Guidance"
+          },
+          {
+            "1st level (2 slots)": "Cure Wounds, Entangle"
+          }
+        ],
+        "traits": [
+          [
+            "Spellcasting",
+            "The druid can cast prepared druid spells using Wisdom as the spellcasting ability (spell save DC 12",
+            "+4 to hit with spell attacks). The druid can cast prepared spells requiring a material component without the need for those components."
+          ],
+          [
+            "Druidic",
+            "The druid knows Druidic",
+            "the secret language of druids. The druid can speak the language and use it to leave hidden messages. Others can only spot the message's presence with a successful DC 15 Wisdom (Perception) check",
+            "but can't decipher it without magic."
+          ]
+        ],
+        "actions": [
+          [
+            "Quarterstaff",
+            {
+              "Melee Weapon Attack": "+2 to hit"
+            },
+            "reach 5 ft.",
+            {
+              "one target. Hit": "1d6 bludgeoning damage (1d8 if used with two hands)."
+            }
+          ]
+        ],
+        "legendary_actions": [
+          "None"
+        ],
+        "reactions": [
+          "None"
+        ]
+      }
+    ],
+    [
+      "Level 1 Fighter",
+      {
+        "name": "Level 1 Fighter",
+        "size": "Medium",
+        "type": "Humanoid",
+        "subtype": "Human",
+        "alignment": "Lawful Neutral",
+        "ac": 16,
+        "hp": 12,
+        "hit_dice": "1d10",
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          14,
+          14,
+          10,
+          12,
+          10
+        ],
+        "fage_stats": [
+          3,
+          2,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "saves": [
+          {
+            "Strength": 5
+          },
+          {
+            "Constitution": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "Athletics": 5
+          },
+          {
+            "Perception": 3
+          }
+        ],
+        "damage_vulnerabilities": "None",
+        "damage_resistances": "None",
+        "damage_immunities": "None",
+        "condition_immunities": "None",
+        "senses": "Passive Perception 13",
+        "languages": "Common",
+        "cr": "1/4",
+        "spells": [
+          "None"
+        ],
+        "traits": [
+          [
+            {
+              "Fighting Style": "Defense"
+            },
+            "While the fighter is wearing armor",
+            "they gain a +1 bonus to AC."
+          ],
+          [
+            "Second Wind",
+            "The fighter can use a bonus action to regain hit points equal to 1d10 + 1 (once per short or long rest)."
+          ]
+        ],
+        "actions": [
+          [
+            "Longsword",
+            {
+              "Melee Weapon Attack": "+5 to hit"
+            },
+            "reach 5 ft.",
+            {
+              "one target. Hit": "1d8 + 3 slashing damage (1d10 + 3 if used with two hands)."
+            }
+          ],
+          [
+            "Shortbow",
+            {
+              "Ranged Weapon Attack": "+4 to hit"
+            },
+            "range 80/320 ft.",
+            {
+              "one target. Hit": "1d6 + 2 piercing damage."
+            }
+          ]
+        ],
+        "legendary_actions": [
+          "None"
+        ],
+        "reactions": [
+          "None"
+        ]
+      }
+    ],
+    [
+      "Level 1 Ranger",
+      {
+        "name": "Level 1 Ranger",
+        "size": "Medium",
+        "type": "Humanoid",
+        "subtype": "Human",
+        "alignment": "Neutral Good",
+        "ac": 14,
+        "hp": 11,
+        "hit_dice": "1d10",
+        "speed": "30 ft.",
+        "stats": [
+          14,
+          16,
+          13,
+          10,
+          14,
+          11
+        ],
+        "fage_stats": [
+          2,
+          3,
+          2,
+          1,
+          2,
+          1,
+          1,
+          1,
+          1
+        ],
+        "saves": [
+          {
+            "Strength": 2
+          },
+          {
+            "Dexterity": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "Perception": 4
+          },
+          {
+            "Stealth": 5
+          },
+          {
+            "Survival": 4
+          }
+        ],
+        "damage_vulnerabilities": "None",
+        "damage_resistances": "None",
+        "damage_immunities": "None",
+        "condition_immunities": "None",
+        "senses": "Passive Perception 14",
+        "languages": "Common, Elvish",
+        "cr": "1/4",
+        "spells": [
+          "None"
+        ],
+        "traits": [
+          [
+            "Favored Enemy",
+            "The ranger has advantage on Wisdom (Survival) checks to track a favored enemy and on Intelligence checks to recall information about them."
+          ],
+          [
+            "Natural Explorer",
+            "The ranger has advantage on initiative rolls. On their first turn during combat",
+            "they have advantage on attack rolls against creatures that have not yet acted."
+          ]
+        ],
+        "actions": [
+          [
+            "Shortsword",
+            {
+              "Melee Weapon Attack": "+5 to hit"
+            },
+            "reach 5 ft.",
+            {
+              "one target. Hit": "1d6 + 3 piercing damage."
+            }
+          ],
+          [
+            "Longbow",
+            {
+              "Ranged Weapon Attack": "+5 to hit"
+            },
+            "range 150/600 ft.",
+            {
+              "one target. Hit": "1d8 + 3 piercing damage."
+            }
+          ]
+        ],
+        "legendary_actions": [
+          "None"
+        ],
+        "reactions": [
+          "None"
+        ]
+      }
+    ],
+    [
+      "Level 1 Barbarian",
+      {
+        "name": "Level 1 Barbarian",
+        "size": "Medium",
+        "type": "Humanoid",
+        "subtype": "Human",
+        "alignment": "Chaotic Neutral",
+        "ac": "14 (Unarmored Defense)",
+        "hp": 15,
+        "hit_dice": "1d12",
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          14,
+          15,
+          8,
+          12,
+          10
+        ],
+        "fage_stats": [
+          3,
+          2,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "saves": [
+          {
+            "Strength": 5
+          },
+          {
+            "Constitution": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "Athletics": 5
+          },
+          {
+            "Intimidation": 2
+          }
+        ],
+        "damage_vulnerabilities": "None",
+        "damage_resistances": "None",
+        "damage_immunities": "None",
+        "condition_immunities": "None",
+        "senses": "Passive Perception 11",
+        "languages": "Common",
+        "cr": "1/4",
+        "spells": [
+          "None"
+        ],
+        "traits": [
+          [
+            "Rage (2/day)",
+            "As a bonus action",
+            "the barbarian can enter a rage for up to 1 minute. While raging",
+            "the barbarian has advantage on Strength checks and Strength saving throws",
+            "gains a +2 bonus to the damage of melee weapon attacks using Strength",
+            "and has resistance to bludgeoning",
+            "piercing",
+            "and slashing damage. The rage ends early if the barbarian is knocked unconscious or if their turn ends and they haven't attacked a hostile creature or taken damage since their last turn."
+          ],
+          [
+            "Unarmored Defense",
+            "While not wearing armor",
+            "the barbarian's AC equals 10 + their Dexterity modifier + their Constitution modifier (AC 14)."
+          ]
+        ],
+        "actions": [
+          [
+            "Greataxe",
+            {
+              "Melee Weapon Attack": "+5 to hit"
+            },
+            "reach 5 ft.",
+            {
+              "one target. Hit": "1d12 + 3 slashing damage."
+            }
+          ]
+        ],
+        "legendary_actions": [
+          "None"
+        ],
+        "reactions": [
+          "None"
+        ]
+      }
+    ],
+    [
+      "Level 2 Fighter",
+      {
+        "name": "Level 2 Fighter",
+        "size": "Medium",
+        "type": "Humanoid",
+        "subtype": "Human",
+        "alignment": "Lawful Neutral",
+        "ac": "16 (Chain Mail, Shield)",
+        "hp": 20,
+        "hit_dice": "2d10",
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          14,
+          14,
+          10,
+          12,
+          10
+        ],
+        "fage_stats": [
+          3,
+          2,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "saves": [
+          {
+            "Strength": 5
+          },
+          {
+            "Constitution": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "Athletics": 5
+          },
+          {
+            "Perception": 3
+          }
+        ],
+        "damage_vulnerabilities": "None",
+        "damage_resistances": "None",
+        "damage_immunities": "None",
+        "condition_immunities": "None",
+        "senses": "Passive Perception 13",
+        "languages": "Common",
+        "cr": "1/2",
+        "spells": [
+          "None"
+        ],
+        "traits": [
+          [
+            {
+              "Fighting Style": "Defense"
+            },
+            "While the fighter is wearing armor",
+            "they gain a +1 bonus to AC."
+          ],
+          [
+            "Second Wind",
+            "The fighter can use a bonus action to regain hit points equal to 1d10 + 2 (once per short or long rest)."
+          ],
+          [
+            "Action Surge (1/short rest)",
+            "On their turn",
+            "the fighter can take one additional action. This can be used once per short or long rest."
+          ]
+        ],
+        "actions": [
+          [
+            "Longsword",
+            {
+              "Melee Weapon Attack": "+5 to hit"
+            },
+            "reach 5 ft.",
+            {
+              "one target. Hit": "1d8 + 3 slashing damage (1d10 + 3 if used with two hands)."
+            }
+          ],
+          [
+            "Shortbow",
+            {
+              "Ranged Weapon Attack": "+4 to hit"
+            },
+            "range 80/320 ft.",
+            {
+              "one target. Hit": "1d6 + 2 piercing damage."
+            }
+          ]
+        ],
+        "legendary_actions": [
+          "None"
+        ],
+        "reactions": [
+          "None"
+        ]
+      }
+    ]
+  ],
   "defaultLayouts": {},
   "layouts": [],
   "default": "basic-5e-layout",
   "useDice": true,
-  "renderDice": false,
+  "renderDice": true,
   "export": true,
   "showAdvanced": false,
   "version": {
@@ -13,9 +506,9 @@
     "patch": 0
   },
   "paths": [
-    "/"
+    "Būtybės"
   ],
-  "autoParse": false,
+  "autoParse": true,
   "disableSRD": false,
   "tryToRenderLinks": true,
   "debug": false,
@@ -23,5 +516,5 @@
   "hideConditionHelp": false,
   "alwaysImport": false,
   "defaultLayoutsIntegrated": true,
-  "atomicWrite": false
+  "atomicWrite": true
 }

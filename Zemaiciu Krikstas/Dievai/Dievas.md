@@ -1,0 +1,1 @@
+Su dukterimis: [[Laima]], [[Gabjia]], [[Austėja]]. Virš [[Aukštojo Kalnas]].

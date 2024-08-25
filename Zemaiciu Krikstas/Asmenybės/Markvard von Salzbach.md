@@ -1,0 +1,1 @@
+ (†1410)** Vokiečių ordino maršalas, vadovavęs kai kuriems ordino padaliniams. Jis taip pat žuvo Žalgirio mūšyje.
