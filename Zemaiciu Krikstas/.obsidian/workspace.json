@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md",
+                "file": "Prompts/Stilius.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md",
+                "file": "Prompts/Stilius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md",
+                "file": "Prompts/Stilius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md"
+                "file": "Prompts/Stilius.md"
               }
             }
           },
@@ -224,12 +224,15 @@
   },
   "active": "cc1bcb8f8a801dab",
   "lastOpenFiles": [
+    "Prompts.md",
+    "Prompts/Stilius.md",
+    "Prompts",
+    "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md",
     "Muzika/Miškas.md",
     "Muzika/Gaudynės.md",
     "Muzika/Dievybės ar šventa.md",
     "Muzika/Garsai mixuoti su kitais.md",
     "Muzika/Sėlina.md",
-    "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md",
     "Muzika/Dialogas.md",
     "Muzika/Kaimas ar miestas.md",
     "Muzika/Juokinga.md",
@@ -250,8 +253,6 @@
     "Vietovės/Velnio Duobė.md",
     "Vietovės/Penkūno Kalnas.md",
     "Vietovės/Mẽdininkai (Varniai).md",
-    "Sesijos/Aktas I/Idėjos.md",
-    "Vietovės/Daugpilis.md",
     "Muzika",
     "Paslaugos",
     "xImages/Pasted image 20240824084104.png",
@@ -265,7 +266,6 @@
     "Sesijos/Aktas I",
     "Aktai/Untitled",
     "Aktai/Aktas I",
-    "Būtybės",
     "Untitled.canvas",
     "Pasted image 20240714223635.png"
   ]
