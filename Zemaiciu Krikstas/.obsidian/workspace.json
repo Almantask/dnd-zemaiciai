@@ -11,11 +11,9 @@
             "id": "cc1bcb8f8a801dab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Prompts/Stilius.md",
-                "mode": "source",
-                "source": false
+                "file": "xImages/Žemyna-2.jpg"
               }
             }
           }
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prompts/Stilius.md",
+                "file": "xImages/Žemyna-2.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prompts/Stilius.md",
+                "file": "xImages/Žemyna-2.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompts/Stilius.md"
+                "file": "xImages/Žemyna-2.jpg"
               }
             }
           },
@@ -222,10 +220,21 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "cc1bcb8f8a801dab",
+  "active": "cc23be36ee8a30dc",
   "lastOpenFiles": [
-    "Prompts.md",
+    "xImages/Žemyna.webp",
+    "xImages/454334468_1718886015526857_7607323971353327152_n (1).jpg",
+    "xImages/Žemyna-2.jpg",
+    "xImages/vytautas-didysis-artas-iš-belarusijos-didvyriai-svetainės-v0-68bevp2zt0b91.jpg",
+    "xImages/Aušrinė-1.jpg",
+    "xImages/Aušrinė-2.jpg",
+    "xImages/Austėja-1.jpg",
+    "xImages/451695037_506649735167939_5605917995968098758_n.jpg",
+    "xImages/Austėja-2.jpg",
+    "xImages/Dievas-1.jpg",
+    "xImages/452045203_968314711714425_6911137582201605932_n.jpg",
     "Prompts/Stilius.md",
+    "Prompts.md",
     "Prompts",
     "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md",
     "Muzika/Miškas.md",
@@ -252,21 +261,13 @@
     "Muzika",
     "Vietovės/Velnio Duobė.md",
     "Vietovės/Penkūno Kalnas.md",
-    "Vietovės/Mẽdininkai (Varniai).md",
     "Muzika",
     "Paslaugos",
-    "xImages/Pasted image 20240824084104.png",
     "Grupė",
-    "xImages/vytautas-didysis-artas-iš-belarusijos-didvyriai-svetainės-v0-68bevp2zt0b91.jpg",
-    "xImages/LDK-map.jpeg",
-    "xImages/Pasted image 20240719230848.png",
-    "xImages/Jagajła._Ягайла_(M._Godlewski,_1863).jpg",
-    "xImages/file-07bpkOYrFsXpIOjDQNQaLF7N.webp",
     "Žemėlapiai",
     "Sesijos/Aktas I",
     "Aktai/Untitled",
     "Aktai/Aktas I",
-    "Untitled.canvas",
-    "Pasted image 20240714223635.png"
+    "Untitled.canvas"
   ]
 }
