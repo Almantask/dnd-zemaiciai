@@ -491,6 +491,115 @@
           "None"
         ]
       }
+    ],
+    [
+      "Laumė",
+      {
+        "name": "Laumė",
+        "size": "Medium",
+        "type": "Fey",
+        "subtype": "None",
+        "alignment": "Chaotic Neutral",
+        "ac": 13,
+        "hp": 22,
+        "hit_dice": "4d8+4",
+        "speed": "30 ft., fly 30 ft.",
+        "stats": [
+          10,
+          14,
+          12,
+          12,
+          10,
+          15
+        ],
+        "fage_stats": [
+          0,
+          2,
+          1,
+          1,
+          0,
+          2,
+          0,
+          0,
+          0
+        ],
+        "saves": [
+          {
+            "dex": 4
+          },
+          {
+            "cha": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "deception": 4
+          },
+          {
+            "perception": 2
+          },
+          {
+            "stealth": 4
+          }
+        ],
+        "damage_vulnerabilities": "None",
+        "damage_resistances": "Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks",
+        "damage_immunities": "None",
+        "condition_immunities": "None",
+        "senses": "Darkvision 60 ft., Passive Perception 12",
+        "languages": "Common, Sylvan",
+        "cr": 0.5,
+        "spells": [
+          {
+            "Recharge 5-6": "Fey Charm (Charmed effect, DC 12 Wisdom)"
+          }
+        ],
+        "traits": [
+          [
+            "Fey Charm",
+            "The Laumė targets one creature it can see within 30 feet. The target must succeed on a DC 12 Wisdom saving throw or be charmed for 1 minute. While charmed",
+            "the target regards the Laumė as a trusted friend. The effect ends if the Laumė or its allies harm the target."
+          ],
+          [
+            "Nature's Grasp",
+            {
+              "1/Day": "As an action"
+            },
+            "the Laumė causes vines to sprout in a 10-foot radius centered on itself. Each creature in the area must succeed on a DC 12 Strength saving throw or be restrained by vines for 1 minute. A restrained creature can use its action to make a Strength (Athletics) check against the DC to free itself."
+          ]
+        ],
+        "actions": [
+          [
+            "Claw Attack",
+            {
+              "Melee Weapon Attack": "+4 to hit"
+            },
+            "reach 5 ft.",
+            {
+              "one target. Hit": "6 (1d6 + 2) slashing damage."
+            }
+          ],
+          [
+            "Mystic Bolt",
+            {
+              "Ranged Spell Attack": "+4 to hit"
+            },
+            "range 60 ft.",
+            {
+              "one target. Hit": "7 (2d4 + 2) force damage."
+            }
+          ],
+          [
+            "Mournful Wail",
+            {
+              "1/Day": "All creatures within 20 feet of the Laumė that can hear it must succeed on a DC 12 Wisdom saving throw or become frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns"
+            },
+            "ending the effect on itself on a success."
+          ]
+        ],
+        "legendary_actions": "None",
+        "reactions": "None"
+      }
     ]
   ],
   "defaultLayouts": {},

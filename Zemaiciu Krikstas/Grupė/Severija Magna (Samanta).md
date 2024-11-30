@@ -1,0 +1,1 @@
+![[Samanta.jpeg]]

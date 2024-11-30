@@ -4,35 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4eb106c96ab5ebf6",
+        "id": "e118f1c932e3ac9f",
         "type": "tabs",
         "children": [
           {
-            "id": "cc1bcb8f8a801dab",
+            "id": "456ee7ce4f6db1b6",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "xImages/Žemyna-2.jpg"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ef60ef19efb57446",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "51f120138840a0bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Muzika/Garsai mixuoti su kitais.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "xImages/Agnė.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Agnė"
             }
           }
         ]
@@ -55,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -64,13 +50,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rokas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -78,14 +66,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 509.5
+    "width": 395.5
   },
   "right": {
     "id": "d8bf2ba3ee46a72d",
@@ -94,6 +84,7 @@
       {
         "id": "d727a2bb72b52334",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "0d1ed2e42ed80dfa",
@@ -101,15 +92,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "xImages/Žemyna-2.jpg",
+                "file": "1732949786818 - Kryžiuočio pagrobimas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1732949786818 - Kryžiuočio pagrobimas"
             }
           },
           {
@@ -118,10 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "xImages/Žemyna-2.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -132,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -140,9 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "xImages/Žemyna-2.jpg"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -150,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
-              "state": {}
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -158,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -166,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -175,13 +177,16 @@
       {
         "id": "ff0031662688c034",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "66f91c4198bdd000",
             "type": "leaf",
             "state": {
               "type": "fantasy-statblocks-creature-pane",
-              "state": {}
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
             }
           }
         ]
@@ -189,13 +194,16 @@
       {
         "id": "48c023accdcdc4e2",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "bae14dede45654d1",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
-              "state": {}
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
             }
           }
         ]
@@ -222,52 +230,52 @@
   },
   "active": "cc23be36ee8a30dc",
   "lastOpenFiles": [
-    "xImages/Žemyna.webp",
-    "xImages/454334468_1718886015526857_7607323971353327152_n (1).jpg",
-    "xImages/Žemyna-2.jpg",
-    "xImages/vytautas-didysis-artas-iš-belarusijos-didvyriai-svetainės-v0-68bevp2zt0b91.jpg",
-    "xImages/Aušrinė-1.jpg",
-    "xImages/Aušrinė-2.jpg",
-    "xImages/Austėja-1.jpg",
-    "xImages/451695037_506649735167939_5605917995968098758_n.jpg",
-    "xImages/Austėja-2.jpg",
-    "xImages/Dievas-1.jpg",
-    "xImages/452045203_968314711714425_6911137582201605932_n.jpg",
+    "To print/Sheets/DnD_5E_CharacterSheet_FormFillable.pdf",
+    "To print/Sheets/CS_ThornShagar_Print.pdf",
+    "To print/Sheets/CS_Samanta_Print.pdf",
+    "To print/Sheets",
+    "To print/Tavern.JPG",
+    "To print/Riverroad.jpeg",
+    "To print/Prison.jpeg",
+    "To print/Pilis-interior.JPG",
+    "To print/Medininkai.jpeg",
+    "To print/Edited-Oakwood.JPG",
+    "To print/CastleGate.JPG",
+    "To print/Split/Tavern-2.JPG",
+    "To print/Split/Tavern-1.JPG",
+    "To print/Split/Prison-2.jpeg",
+    "To print/Split",
+    "To print/Tokens.docx",
+    "To print",
+    "New folder",
+    "xImages/attachments (1).zip",
+    "xImages/attachments.zip",
+    "1732949786818 - Kryžiuočio pagrobimas.md",
+    "xImages/Agnė2.jpg.~tmp",
+    "Būtybės/Kaukas - variantas su karstu medyje.md",
+    "Untitled.canvas",
+    "2024-11-30.md",
+    "Grupė/Elenion (Agnė).md",
+    "Grupė/Grimantas Stonefist (Linas).md",
+    "Grupė/Vėja Laumė Vilkė (Edita).md",
+    "Būtybės/Kryžiuočių riteris.md",
+    "Būtybės/Pinčiukas.md",
+    "Žemėlapiai/LDK XIV a. pradžioje - public.md",
+    "Žemėlapiai/LDK XIV a. pradžioje - private.md",
+    "Žemėlapiai/LDK XIV a. pradžioje - blank.md",
+    "Rokas.md",
     "Prompts/Stilius.md",
-    "Prompts.md",
-    "Prompts",
+    "Grupė/Vėtra (Donata).md",
+    "Grupė/Thorn Shagar (Rokas).md",
+    "Grupė/Severija Magna (Samanta).md",
+    "Sesijos/Aktas I/Idėjos.md",
     "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md",
-    "Muzika/Miškas.md",
-    "Muzika/Gaudynės.md",
-    "Muzika/Dievybės ar šventa.md",
-    "Muzika/Garsai mixuoti su kitais.md",
-    "Muzika/Sėlina.md",
-    "Muzika/Dialogas.md",
-    "Muzika/Kaimas ar miestas.md",
-    "Muzika/Juokinga.md",
-    "Muzika/Bosas.md",
-    "Muzika/Kelionė.md",
-    "Muzika/Kova.md",
-    "Muzika/Taverna.md",
     "Sesijos/Aktas I/Sesija 0.md",
-    "Muzika.md",
-    "Muzika/Paslaptinga.md",
-    "Muzika/Special.md",
-    "Muzika/Požemis Nusiaubta Vaiduokliai.md",
-    "Muzika/Požemis.md",
-    "Muzika/Laužavietė.md",
-    "Muzika/Intensyvu.md",
-    "Muzika/Paslaptinga",
-    "Muzika",
-    "Vietovės/Velnio Duobė.md",
-    "Vietovės/Penkūno Kalnas.md",
-    "Muzika",
-    "Paslaugos",
-    "Grupė",
-    "Žemėlapiai",
-    "Sesijos/Aktas I",
-    "Aktai/Untitled",
-    "Aktai/Aktas I",
-    "Untitled.canvas"
+    "Dievai/Bibčių Bobelis.md",
+    "Dievai/Austėja.md",
+    "Dievai/Aušrinė.md",
+    "Prompts.md",
+    "Muzika/Miškas.md",
+    "Muzika/Gaudynės.md"
   ]
 }
