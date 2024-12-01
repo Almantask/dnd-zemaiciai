@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e118f1c932e3ac9f",
+        "id": "08372a8a628c7e44",
         "type": "tabs",
         "children": [
           {
-            "id": "456ee7ce4f6db1b6",
+            "id": "8c4614fe0f37f7fa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "xImages/Agnė.jpg"
+                "file": "Sesijos/Praėją/Sesija I.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Agnė"
+              "icon": "lucide-file",
+              "title": "Sesija I"
             }
           }
         ]
@@ -84,7 +86,7 @@
       {
         "id": "d727a2bb72b52334",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 33.333333333333336,
         "children": [
           {
             "id": "0d1ed2e42ed80dfa",
@@ -177,7 +179,7 @@
       {
         "id": "ff0031662688c034",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 33.333333333333336,
         "children": [
           {
             "id": "66f91c4198bdd000",
@@ -194,7 +196,7 @@
       {
         "id": "48c023accdcdc4e2",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 33.333333333333336,
         "children": [
           {
             "id": "bae14dede45654d1",
@@ -228,8 +230,26 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "cc23be36ee8a30dc",
+  "active": "8c4614fe0f37f7fa",
   "lastOpenFiles": [
+    "Grupė/Vėtra (Donata).md",
+    "Sesijos/Praėją/Sesija I.md",
+    "Grupė/Vėja Laumė Vilkė (Edita).md",
+    "Grupė/Vakarė (Agnė).md",
+    "Mẽdininkai.md",
+    "xImages/Edita.jpeg",
+    "xImages/Edita.jpg",
+    "Grupė/Thorn Shagar (Rokas).md",
+    "Grupė/Severija Magna (Samanta).md",
+    "Grupė/Grimantas Stonefist (Linas).md",
+    "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md",
+    "Sesijos/Aktas I/Sesija 0.md",
+    "Sesijos/Aktas I/Idėjos.md",
+    "Sesijos/Aktas I/Sesija 3 - Paieškos.md",
+    "Sesijos/Aktas I/Sesija 2 - Atgal.md",
+    "Sesijos/Praėją",
+    "Rokas.md",
+    "xImages/Agnė.jpg",
     "To print/Sheets/DnD_5E_CharacterSheet_FormFillable.pdf",
     "To print/Sheets/CS_ThornShagar_Print.pdf",
     "To print/Sheets/CS_Samanta_Print.pdf",
@@ -241,41 +261,22 @@
     "To print/Medininkai.jpeg",
     "To print/Edited-Oakwood.JPG",
     "To print/CastleGate.JPG",
-    "To print/Split/Tavern-2.JPG",
-    "To print/Split/Tavern-1.JPG",
-    "To print/Split/Prison-2.jpeg",
     "To print/Split",
     "To print/Tokens.docx",
     "To print",
     "New folder",
     "xImages/attachments (1).zip",
-    "xImages/attachments.zip",
     "1732949786818 - Kryžiuočio pagrobimas.md",
-    "xImages/Agnė2.jpg.~tmp",
     "Būtybės/Kaukas - variantas su karstu medyje.md",
     "Untitled.canvas",
     "2024-11-30.md",
-    "Grupė/Elenion (Agnė).md",
-    "Grupė/Grimantas Stonefist (Linas).md",
-    "Grupė/Vėja Laumė Vilkė (Edita).md",
     "Būtybės/Kryžiuočių riteris.md",
     "Būtybės/Pinčiukas.md",
     "Žemėlapiai/LDK XIV a. pradžioje - public.md",
     "Žemėlapiai/LDK XIV a. pradžioje - private.md",
     "Žemėlapiai/LDK XIV a. pradžioje - blank.md",
-    "Rokas.md",
     "Prompts/Stilius.md",
-    "Grupė/Vėtra (Donata).md",
-    "Grupė/Thorn Shagar (Rokas).md",
-    "Grupė/Severija Magna (Samanta).md",
-    "Sesijos/Aktas I/Idėjos.md",
-    "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md",
-    "Sesijos/Aktas I/Sesija 0.md",
     "Dievai/Bibčių Bobelis.md",
-    "Dievai/Austėja.md",
-    "Dievai/Aušrinė.md",
-    "Prompts.md",
-    "Muzika/Miškas.md",
-    "Muzika/Gaudynės.md"
+    "Dievai/Austėja.md"
   ]
 }

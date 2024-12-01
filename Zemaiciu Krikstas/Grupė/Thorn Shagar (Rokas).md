@@ -1,1 +1,2 @@
-![[Rokas]]
+![[Rokas.jpeg]]
+Thorn (Fornas) yra pusiau orkas klerikas. Jis renka visokius metalus ir tai jį atvedė į [[Mẽdininkai]] kaimelį. Forną yra įsimylėjus [[Severija Magna (Samanta)]] tačiau jis tuo pačiu dar neatsako. Pasirodžius įtartinam berniukui, jis buvo drąsiausias, bet taip pat atsargiai artinosi prie jo. Kadangi buvo arčiausiai - jį įtraukė į medį. Iš medžio jį ištraukė [[Grimantas Stonefist (Linas)]]. Jam nepatiko vaikžudystė. Nepasitiki [[Vėja Laumė Vilkė (Edita)]], nes ji melavo. Kiek metų?

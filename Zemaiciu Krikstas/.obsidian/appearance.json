@@ -1,1 +1,8 @@
-{}
+{
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons"
+  ],
+  "theme": "moonstone"
+}
