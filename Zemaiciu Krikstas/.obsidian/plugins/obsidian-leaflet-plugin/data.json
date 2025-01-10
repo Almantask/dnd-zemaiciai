@@ -79,7 +79,7 @@
     },
     {
       "id": "ldk-xiv-private",
-      "lastAccessed": 1732951608130,
+      "lastAccessed": 1736545135425,
       "markers": [
         {
           "id": "ID_090b9899aa0a",
@@ -109,7 +109,7 @@
     },
     {
       "id": "ldk-xiv-public",
-      "lastAccessed": 1732951608610,
+      "lastAccessed": 1736545135828,
       "markers": [
         {
           "id": "ID_fb2b296a28d8",
@@ -131,15 +131,15 @@
           "id": "ID_c88a4b89b87b",
           "type": "Someone key path",
           "loc": [
-            -4.4990234375,
-            8.4423828125
+            -2.3255207538604736,
+            8.778645992279053
           ],
           "layer": "%5B%5BLDK-map.jpeg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.7859090909090909,
-            0.49073285044737963
+            0.8172121360085227,
+            0.253657142304338
           ],
           "description": "Pasiuntinys",
           "minZoom": 0,
@@ -166,15 +166,15 @@
           "id": "ID_7919aad8091a",
           "type": "Party current location",
           "loc": [
-            -1.97265625,
-            7.8203125
+            -2.2395832538604736,
+            8.63671875
           ],
           "layer": "%5B%5BLDK-map.jpeg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.728,
-            0.21516829995739242
+            0.804,
+            0.24428347379134266
           ],
           "description": "Jūs esat čia",
           "minZoom": null,
@@ -217,132 +217,55 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_e938cbf8e84a",
-          "type": "Town or city",
-          "loc": [
-            -4.5098724365234375,
-            8.46533203125
-          ],
-          "layer": "%5B%5BLDK-map.jpeg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_e8aa5bd97be8",
-          "type": "Town or city",
-          "loc": [
-            -4.5010833740234375,
-            8.45263671875
-          ],
-          "layer": "%5B%5BLDK-map.jpeg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_68987bd8b95a",
-          "type": "Town or city",
-          "loc": [
-            -4.509979248046875,
-            8.4208984375
-          ],
-          "layer": "%5B%5BLDK-map.jpeg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_9889b879baca",
-          "type": "Town or city",
-          "loc": [
-            -4.492401123046875,
-            8.4560546875
-          ],
-          "layer": "%5B%5BLDK-map.jpeg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_895b7a794828",
-          "type": "Town or city",
-          "loc": [
-            -4.4383544921875,
-            8.36328125
-          ],
-          "layer": "%5B%5BLDK-map.jpeg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_995899aa194a",
-          "type": "Town or city",
-          "loc": [
-            -4.6387786865234375,
-            8.89306640625
-          ],
-          "layer": "%5B%5BLDK-map.jpeg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_199b6be84a19",
-          "type": "Town or city",
-          "loc": [
-            -5.5164794921875,
-            6.37109375
-          ],
-          "layer": "%5B%5BLDK-map.jpeg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
           "id": "ID_78bbda688a19",
           "type": "Town or city",
           "loc": [
-            -4.4990234375,
-            8.4833984375
+            -4.537760496139526,
+            8.497395753860474
           ],
           "layer": "%5B%5BLDK-map.jpeg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.7897272727272727,
-            0.49073285044737963
+            0.7910302956321023,
+            0.4949581112107877
           ],
           "description": "Daugpilis\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7bb9c80a2b0b",
+          "type": "Town or city",
+          "loc": [
+            -3.5729166865348816,
+            6.632161378860474
+          ],
+          "layer": "%5B%5BLDK-map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6173939319957387,
+            0.38971737185893895
+          ],
+          "description": "Trakai",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89f80b88f8eb",
+          "type": "default",
+          "loc": [
+            -1.8119761645793915,
+            8.302093505859375
+          ],
+          "layer": "%5B%5BLDK-map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Šatrijos kalnas",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
