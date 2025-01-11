@@ -4,22 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "e118f1c932e3ac9f",
+        "id": "108631d7cca1938e",
         "type": "tabs",
         "children": [
           {
-            "id": "456ee7ce4f6db1b6",
+            "id": "ea3b3165e6074c6f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "xImages/Agnė.jpg"
+                "file": "Grupė/Severija Magna (Samanta).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Agnė"
+              "icon": "lucide-file",
+              "title": "Severija Magna (Samanta)"
+            }
+          },
+          {
+            "id": "66dc82e26c94148a",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [],
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
+            }
+          },
+          {
+            "id": "4fd9eb31d2a0d630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesijos/Aktas I/Sesija 2 - Atgal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesija 2 - Atgal"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +111,7 @@
       {
         "id": "d727a2bb72b52334",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 53.057708871662356,
         "children": [
           {
             "id": "0d1ed2e42ed80dfa",
@@ -170,6 +197,26 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "554c0fa074cb7291",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "d0003a353bcd6c6d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
         "currentTab": 4
@@ -177,7 +224,7 @@
       {
         "id": "ff0031662688c034",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 17.226528854435834,
         "children": [
           {
             "id": "66f91c4198bdd000",
@@ -194,7 +241,7 @@
       {
         "id": "48c023accdcdc4e2",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 29.71576227390181,
         "children": [
           {
             "id": "bae14dede45654d1",
@@ -210,7 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 784.5
+    "width": 1098.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,22 +275,82 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "cc23be36ee8a30dc",
+  "floating": {
+    "id": "220e5a4f1ee4fbb9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b39ed49dadb93b57",
+        "type": "window",
+        "children": [
+          {
+            "id": "fa7e08773c0d32c7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d4472a6090c05cbf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Muzika/Miškas.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Miškas"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 410,
+        "y": 21,
+        "width": 1222,
+        "height": 1120,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "4fd9eb31d2a0d630",
   "lastOpenFiles": [
+    "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md",
+    "Muzika/Miškas.md",
+    "Sesijos/Aktas I/Sesija 0.md",
+    "Sesijos/Aktas I/Idėjos.md",
+    "Grupė/Vėtra (Donata).md",
+    "Grupė/Thorn Shagar (Rokas).md",
+    "Grupė/Grimantas Akmenkuštis(Linas).md",
+    "Grupė/Severija Magna (Samanta).md",
+    "Grupė/Vėja Laumė Vilkė (Edita).md",
+    "Grupė/Vakarė (Agnė).md",
+    "Muzika/Kelionė.md",
+    "Žemėlapiai/LDK XIV a. pradžioje - public.md",
+    "Žemėlapiai/LDK XIV a. pradžioje - private.md",
+    "To print/Riverroad.jpeg",
+    "To print/Prison.jpeg",
+    "Žemėlapiai/LDK XIV a. pradžioje - blank.md",
+    "Daiktai/Aušros grapštas.md",
+    "Muzika/Taverna.md",
+    "Muzika/Juokinga.md",
+    "Muzika/Dialogas.md",
+    "Rokas.md",
+    "Muzika/Kaimas ar miestas.md",
+    "Asmenybės/Vytautas.md",
+    "xImages/Agnė.jpg",
     "To print/Sheets/DnD_5E_CharacterSheet_FormFillable.pdf",
     "To print/Sheets/CS_ThornShagar_Print.pdf",
     "To print/Sheets/CS_Samanta_Print.pdf",
     "To print/Sheets",
     "To print/Tavern.JPG",
-    "To print/Riverroad.jpeg",
-    "To print/Prison.jpeg",
     "To print/Pilis-interior.JPG",
     "To print/Medininkai.jpeg",
     "To print/Edited-Oakwood.JPG",
     "To print/CastleGate.JPG",
     "To print/Split/Tavern-2.JPG",
     "To print/Split/Tavern-1.JPG",
-    "To print/Split/Prison-2.jpeg",
     "To print/Split",
     "To print/Tokens.docx",
     "To print",
@@ -251,31 +358,10 @@
     "xImages/attachments (1).zip",
     "xImages/attachments.zip",
     "1732949786818 - Kryžiuočio pagrobimas.md",
-    "xImages/Agnė2.jpg.~tmp",
     "Būtybės/Kaukas - variantas su karstu medyje.md",
     "Untitled.canvas",
     "2024-11-30.md",
-    "Grupė/Elenion (Agnė).md",
-    "Grupė/Grimantas Stonefist (Linas).md",
-    "Grupė/Vėja Laumė Vilkė (Edita).md",
     "Būtybės/Kryžiuočių riteris.md",
-    "Būtybės/Pinčiukas.md",
-    "Žemėlapiai/LDK XIV a. pradžioje - public.md",
-    "Žemėlapiai/LDK XIV a. pradžioje - private.md",
-    "Žemėlapiai/LDK XIV a. pradžioje - blank.md",
-    "Rokas.md",
-    "Prompts/Stilius.md",
-    "Grupė/Vėtra (Donata).md",
-    "Grupė/Thorn Shagar (Rokas).md",
-    "Grupė/Severija Magna (Samanta).md",
-    "Sesijos/Aktas I/Idėjos.md",
-    "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md",
-    "Sesijos/Aktas I/Sesija 0.md",
-    "Dievai/Bibčių Bobelis.md",
-    "Dievai/Austėja.md",
-    "Dievai/Aušrinė.md",
-    "Prompts.md",
-    "Muzika/Miškas.md",
-    "Muzika/Gaudynės.md"
+    "Būtybės/Pinčiukas.md"
   ]
 }

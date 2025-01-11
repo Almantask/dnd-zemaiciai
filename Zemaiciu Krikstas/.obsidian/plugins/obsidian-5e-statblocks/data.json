@@ -600,6 +600,130 @@
         "legendary_actions": "None",
         "reactions": "None"
       }
+    ],
+    [
+      "Arcanith the Unseen",
+      {
+        "name": "Arcanith the Unseen",
+        "size": "Medium",
+        "type": "Humanoid",
+        "subtype": "Wizard",
+        "alignment": "Chaotic Neutral",
+        "ac": "13 (Mage Armor)",
+        "hp": 38,
+        "hit_dice": "5d6+10",
+        "speed": "30 ft.",
+        "stats": [
+          8,
+          14,
+          12,
+          18,
+          12,
+          10
+        ],
+        "fage_stats": [
+          2,
+          3,
+          1,
+          4,
+          1,
+          2,
+          0,
+          0,
+          1
+        ],
+        "saves": [
+          {
+            "Intelligence": 6
+          },
+          {
+            "Wisdom": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "Arcana": 6
+          },
+          {
+            "Perception": 4
+          },
+          {
+            "Stealth": 5
+          }
+        ],
+        "damage_vulnerabilities": "None",
+        "damage_resistances": "Cold, Fire",
+        "damage_immunities": "None",
+        "condition_immunities": "Charmed",
+        "senses": "Darkvision 60 ft., Passive Perception 14",
+        "languages": "Common, Elvish, Draconic",
+        "cr": 3,
+        "spells": [
+          {
+            "Spellcasting": "Arcanith is a 5th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks)."
+          },
+          {
+            "Cantrips (at will)": "Fire Bolt, Minor Illusion, Mage Hand, Prestidigitation"
+          },
+          {
+            "1st level (4 slots)": "Mage Armor, Shield, Magic Missile"
+          },
+          {
+            "2nd level (3 slots)": "Misty Step, Mirror Image"
+          },
+          {
+            "3rd level (2 slots)": "Counterspell, Fireball"
+          }
+        ],
+        "traits": [
+          [
+            "Arcane Recovery",
+            "Once per day after a short rest",
+            "Arcanith can recover a number of spell slots with a combined level equal to or less than 3."
+          ],
+          [
+            "Sculpt Spells",
+            "When Arcanith casts a spell that affects an area",
+            "he can choose up to two creatures within the area to automatically succeed on their saving throw and take no damage."
+          ]
+        ],
+        "actions": [
+          [
+            "Arcane Blast",
+            {
+              "Ranged Spell Attack": "+6 to hit"
+            },
+            "range 120 ft.",
+            {
+              "one target. Hit": "10 (2d6 + 3) force damage."
+            }
+          ],
+          [
+            "Fireball (3rd level)",
+            "Arcanith hurls a sphere of fire that explodes in a 20-ft radius. Each creature in the area must make a DC 14 Dexterity saving throw",
+            "taking 28 (8d6) fire damage on a failed save",
+            "or half as much on a success."
+          ]
+        ],
+        "legendary_actions": [
+          [
+            "Quickened Shield",
+            "Arcanith can cast Shield as a reaction to protect himself from an attack",
+            "adding +5 to his AC."
+          ],
+          [
+            "Spell Mastery",
+            "Arcanith can cast a 1st-level spell he knows without expending a spell slot."
+          ]
+        ],
+        "reactions": [
+          [
+            "Counterspell",
+            "When a creature within 60 feet casts a spell",
+            "Arcanith can use his reaction to attempt to negate it."
+          ]
+        ]
+      }
     ]
   ],
   "defaultLayouts": {},

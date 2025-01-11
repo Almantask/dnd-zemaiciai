@@ -1,3 +1,13 @@
+Pabelsti į medį tris kartus.
+Grimantas ir Vėja nuskriaudė kauką.
+Vėja melavo, kad vaikas yra kryžiuotis.. Vaikas kaukas.
+
+
+
+
+
+
+
 Nusiaubto kryžiuočių kaimo [[Mẽdininkai (Varniai)]] žmonės neseniai atstatė savo kaimą. Jūs ilsitės tavernoje, kai staiga prie jūsų prieina aukšto, stipraus gymio vyrukas. Dudoa užduotį pagrobti kryžiuočių pasiuntinys. Kodėl? Kryžiuočiai kažką rezga ir manome kad nori susitarti su Vytautu dėl tolesnio ne tik Žemaitijos, bet ir visos Lietuvos dalijimo.
 Prie jūsų taip pat ateina  moteris - kuri pateria negrobti, o priešingai, sutrugdyti pagrobimui, mat jūs ne pirma tokia grupė, kurią bando nurecruitinti.
 
