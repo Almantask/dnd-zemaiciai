@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesijos/Aktas I/Sesija 2 - Kryžiuotis pasiuntinys.md",
+                "file": "Sesijos/Aktas I/Sesija 3 - Pasiuntinio Laiškas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesija 2 - Kryžiuotis pasiuntinys"
+              "title": "Sesija 3 - Pasiuntinio Laiškas"
             }
           }
         ]
@@ -86,7 +86,7 @@
       {
         "id": "d727a2bb72b52334",
         "type": "tabs",
-        "dimension": 33.333333333333336,
+        "dimension": 58.09768637532133,
         "children": [
           {
             "id": "0d1ed2e42ed80dfa",
@@ -138,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Sesijos/Aktas I/Sesija 3 - Pasiuntinio Laiškas.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Sesija 3 - Pasiuntinio Laiškas"
             }
           },
           {
@@ -179,7 +181,7 @@
       {
         "id": "ff0031662688c034",
         "type": "tabs",
-        "dimension": 33.333333333333336,
+        "dimension": 17.13796058269066,
         "children": [
           {
             "id": "66f91c4198bdd000",
@@ -196,7 +198,7 @@
       {
         "id": "48c023accdcdc4e2",
         "type": "tabs",
-        "dimension": 33.333333333333336,
+        "dimension": 24.764353041988006,
         "children": [
           {
             "id": "bae14dede45654d1",
@@ -232,11 +234,36 @@
   },
   "active": "8c4614fe0f37f7fa",
   "lastOpenFiles": [
+    "Sesijos/Praėją/Sesija I.md",
+    "Sesijos/Praėją/Sesija II - Kryžiuotis pasiuntinys.md",
+    "Asmenybės/Markvard von Salzbach.md",
+    "Sesijos/Aktas I/Sesija 3 - Pasiuntinio Laiškas.md",
+    "Asmenybės/Jeronimas Prahiškis misionierius.md",
+    "Asmenybės/Heinrich von Plauen.md",
+    "Asmenybės/Algirdas.md",
+    "Sesijos/Aktas I/Sesija x.md",
+    "Sesijos/Aktas I/Sesija 0.md",
+    "1738182454074 - Combat.md",
+    "Sesijos/Aktas I/Idėjos.md",
+    "Grupė/Vėtra (Donata).md",
+    "Grupė/Vykintas Girdenis (Rokas).md",
+    "Grupė/xThorn Shagar (Rokas) - DEAD.md",
+    "Grupė/Vėja Laumė Vilkė (Edita).md",
+    "Grupė/Vakarė (Agnė).md",
+    "Grupė/Grimantas Stonefist (Linas).md",
+    "xImages/VykintasGirdenis-Front.jpg",
+    "xImages/VykintasGirdenis-Back.jpg",
+    "xImages/VykintasGirdenis-Back.jpg.crdownload",
+    "xImages/VykintasGirdenis-Front.jjpg.jfif",
+    "xImages/VykintasGirdenis-Front.jjpg.jfif.crdownload",
+    "xImages/VykintasGirdenis.jpg",
+    "xImages/VykintasGirdenis.jpg.crdownload",
+    "xImages/VienintelisLikesGyvasZemaitis.JPG.~tmp",
+    "xImages/VienintelisLikesGyvasZemaitis.JPG",
+    "xImages/PireMiškoPasala.png",
+    "xImages/PireMiškoPasala.png.crdownload",
     "To print/Ambush map.pdf",
     "865c58e6-6a32-4ea3-b93c-b498ab9c9280.webp",
-    "Sesijos/Aktas I/Sesija 3 - Paieškos.md",
-    "Sesijos/Aktas I/Sesija 2 - Kryžiuotis pasiuntinys.md",
-    "Sesijos/Aktas I/Sesija 0.md",
     "To print/Prison.jpeg",
     "To print/Medininkai.jpeg",
     "Vietovės/Šatrijos Kalnas.md",
@@ -246,38 +273,13 @@
     "To print/Tavern.JPG",
     "To print/Sheets/CS_Samanta_Print.pdf",
     "To print/Split/Pilis-interior-1.JPG",
-    "To print/Split/Medininkai-2.jpeg",
-    "To print/Split/Medininkai-1.jpeg",
-    "To print/Split/Edited-Oakwood-2.JPG",
-    "To print/Split/Edited-Oakwood-1.JPG",
-    "To print/CastleGate.JPG",
-    "Sesijos/Aktas I/Sesija x.md",
-    "Sesijos/Praėją/Sesija I.md",
     "Mẽdininkai.md",
     "Rokas.md",
-    "Sesijos/Aktas I/Idėjos.md",
     "Muzika/Taverna.md",
     "Muzika/Sėlina.md",
     "Muzika/Požemis Nusiaubta Vaiduokliai.md",
-    "Muzika/Paslaptinga.md",
-    "Muzika/Miškas.md",
-    "Muzika/Kova.md",
-    "Muzika/Kelionė.md",
-    "Muzika/Kaimas ar miestas.md",
-    "Muzika/Juokinga.md",
-    "Muzika/Gaudynės.md",
-    "Muzika/Garsai mixuoti su kitais.md",
-    "Muzika/Dievybės ar šventa.md",
-    "Muzika/Dialogas.md",
     "Sesijos/Praėją",
     "To print/Sheets/DnD_5E_CharacterSheet_FormFillable.pdf",
-    "To print/Sheets/CS_ThornShagar_Print.pdf",
-    "To print/Sheets",
-    "To print/Split",
-    "To print/Tokens.docx",
-    "To print",
-    "New folder",
-    "xImages/attachments (1).zip",
     "Untitled.canvas"
   ]
 }

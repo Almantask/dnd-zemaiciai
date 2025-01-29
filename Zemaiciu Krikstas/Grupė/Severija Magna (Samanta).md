@@ -1,2 +1,2 @@
 ![[Samanta.jpeg]]
-Severija yra medžiotoja, kuri užsiima kailių paradvinėjimu. Pirmoje sesijoje ji iš pirmo žvilgsnio įsimyli [[Thorn Shagar (Rokas)]]. Ji yra gan laisvas žmogus, patikli, lengvai susižavi dalykais. Pacifistė. Kiek metų?
+Severija yra medžiotoja, kuri užsiima kailių paradvinėjimu. Pirmoje sesijoje ji iš pirmo žvilgsnio įsimyli [[xThorn Shagar (Rokas) - DEAD]]. Ji yra gan laisvas žmogus, patikli, lengvai susižavi dalykais. Pacifistė. Kiek metų?
