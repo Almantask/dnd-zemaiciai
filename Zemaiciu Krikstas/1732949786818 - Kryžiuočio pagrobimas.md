@@ -26,3 +26,9 @@ Vykintas Girdenis (Rokas) added to the combat.
  and  added to the combat.
  and  added to the combat.
 Guard, Guard, Guard, Guard and Cultist added to the combat.
+Combat re-started
+Combat stopped
+Combat re-started
+Combat stopped
+Combat re-started
+Combat stopped

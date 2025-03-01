@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -127,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -139,7 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesijos/Aktas I/Sesija 3 - Pasiuntinio Laiškas.md"
+                "file": "Sesijos/Aktas I/Sesija 3 - Pasiuntinio Laiškas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of Sesija 3 - Pasiuntinio Laiškas"
@@ -234,6 +240,10 @@
   },
   "active": "8c4614fe0f37f7fa",
   "lastOpenFiles": [
+    "Sesijos/Aktas I/Sesija 3 - Pasiuntinio Laiškas.md",
+    "Sesijos/Aktas I/Sesija 0.md",
+    "Sesijos/Praėją/Sesija I.md",
+    "Sesijos/Praėją/Sesija II - Kryžiuotis pasiuntinys.md",
     "xImages/Characters/Konradas-Vong-Jungingenas.webp",
     "xImages/Characters/PriešTaiBuvęs.webp",
     "xImages/Characters/DALL·E 2025-01-30 21.49.12 - A Teutonic noble knight in full plate armor, appearing much older and even more noble. His helmet is open, revealing a wise, battle-hardened face with.webp",
@@ -244,21 +254,16 @@
     "xImages/Tokens/S3/token_8 (5).png",
     "xImages/Tokens/S3/token_7 (5).png",
     "xImages/Tokens/S3/token_6 (5).png",
-    "xImages/Tokens/S3/token_5 (5).png",
     "xImages/Tokens/S3",
     "xImages/Tokens/New folder",
     "xImages/Tokens",
     "xImages/New folder",
     "xImages/Characters/RumbaudasValiminaitis.webp.crdownload",
-    "Sesijos/Praėją/Sesija I.md",
-    "Sesijos/Praėją/Sesija II - Kryžiuotis pasiuntinys.md",
     "Asmenybės/Markvard von Salzbach.md",
-    "Sesijos/Aktas I/Sesija 3 - Pasiuntinio Laiškas.md",
     "Asmenybės/Jeronimas Prahiškis misionierius.md",
     "Asmenybės/Heinrich von Plauen.md",
     "Asmenybės/Algirdas.md",
     "Sesijos/Aktas I/Sesija x.md",
-    "Sesijos/Aktas I/Sesija 0.md",
     "1738182454074 - Combat.md",
     "Sesijos/Aktas I/Idėjos.md",
     "Grupė/Vėtra (Donata).md",

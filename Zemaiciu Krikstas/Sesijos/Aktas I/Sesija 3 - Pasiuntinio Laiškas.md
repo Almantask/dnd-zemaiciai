@@ -1,18 +1,35 @@
 Kur keliausit?
 
 ## Kaukas (1 DieNa)
-Po pralaimėjimo, kaukas matė, kad su jumis reikia atsargiai. Taip pat matė, kad jūs stiprūs ir galima jus išnaudoti. Todėl betkokiu atveju jis jūsų prašys dar 1 gyvybės - šįkart kilimingojo kryžiuočio: riterio arba aukštesnės kastos dvasininko. Jeigu nesutiksit - puls. Jeigu pralošit - vis tiek vers tą patį padaryti.
+Po pralaimėjimo, kaukas matė, kad su jumis reikia atsargiai. Taip pat matė, kad jūs stiprūs ir galima jus išnaudoti. Todėl betkokiu atveju jis jūsų prašys dar 1 gyvybės - šįkart pasidalins paslaptimi, kad jį kaip vaiką nužudė laumė Miglotė. Dabar ji gyvena ant šatrijos kalno ir jau yra tapus ragana. Jeigu nesutiksit - puls. Jeigu pralošit - vis tiek vers tą patį padaryti.
 
-Encounter: Kaukas - Sugrįžimas I.
+```encounter
+name: Kaukas Sugrįžimas
+party: Draugai
+creatures:
+  - 4: Awakened Shrub
+  - Awakened Tree
+  - Kaukas I
+```
 
-Jeigu sutinkat - jis nudirectina jus pas Raganą Miglotę ant Šatrijos kalno.
+Jeigu sutinkat - jis nudirectina jus pas Raganą Miglotę ant Šatrijos kalno. Kalnų ragana.
+O ragana nori grobti vaikus. Ji atviru tekstu sako, kad jums padėsianti, jeigu vietoj jos - nužudysit kauką.
+
+```encounter
+name: Ragana
+party: Draugai
+creatures:
+  - Mountain Witch
+```
 
 Bekovojant vienas iš kryželių iškrito ir sulūžo. Iš jo iškrito raštelis. GOTO: Laiškas
 
 jeigu kaukas užpuls - raging Vykintas išlįs iš krūmų.
 
+Jeigu grįšit dar kartą - prašys kryžiuočio: riterio arba aukštesnės kastos dvasininko.
+
 ## Tavernos Prižiuretojas (1 Diena arba 2)
-Atvedad pasiuntinį - prašot, kad sumokėtų. Derybos.
+Atvedad pasiuntinį - prašot, kad sumokėtų. Derybos. Tavernos prižiūrėtojas yra su padėjoju - kupriu Igoriu. Jis turi ilgesnį lėžuvį, švepluodamas kalba. Apuosto, palaižo daiktus, ir taip geriau supranta kaip jie veikia. Taip atidaro kryželį.
 
 Jeigu atvarysit į taverną, jus šnipinės Vykintas.
 
@@ -45,10 +62,17 @@ Išlaisvinti Albrechtą, nes jam čia esant kaimas rizikuoja būti nusiaubtas da
 
 Regardless, kaimą atvaro nusiaubti kryžiuočiai.
 
-[[Kryžiuočių riteris]]
-
+```encounter
+name: Kryžiuočiai puola kaimą
+party: Draugai
+creatures:
+  - Teutonic Knight
+  - 4: Teutonic Spearman
+  - 4: Teutonic archer
+  - Samogitian Knight
+```
 
  veda įsibrovimą.  Slėptis. Kažką padaro, supykstat, norit kerštaut.
 [[Pinčiukas]] apsimetęs ragana siūlo pagalbą - stebuklingų daiktų vietą - už aukso [[Aušros grapštas]] jam.
 
-
+Jeigu pralaimit - jus į kaleimą.
