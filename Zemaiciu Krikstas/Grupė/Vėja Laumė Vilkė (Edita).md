@@ -1,3 +1,3 @@
-![[Edita.jpeg]]
-Visus išskerdė, išpjovė mišką, renku žoleles. Priešinasi krikščionybės plėtrai.
-Pažįta [[Grimantas Akmenkuštis(Linas)]] nes jis atvarė iš vardas.
+![[Edita.jpg]]
+Renka žoleles, rūpinasi pagonybe, nenori naujos religijos. Nekenčia kyržiuočių.
+Trenkė botagu kaukui, pamelavo grupei, kad kaukas (berniukas) yra kryžiuotis (nes paliko x randą ant sprando). Buvo pasiklydus miške, bet Grimantas ją surado. Grimantas vienintelis iš grupės ėjo į konfrontaciją dėl melo. Vėjai pavyko įrodyti savo tiesą, bet Grimantas vis tiek šiek tiek abejingas (jis ją sekė miške). Kiek metų?

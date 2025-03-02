@@ -1,1 +1,2 @@
 ![[Donata.jpg]]
+Vėtra yra [[Vakarė (Agnė)]] sesė. Ji gavo magiškų galių, kai į ją trenkė žaibas. Ji nemėgsta kryžiuočių, nepasitiki kitais, nekalbi. Ji su sese nori atstatyti savo kaimą, kurį sunaikino kryžiuočiai. Į [[Mẽdininkai]] ją atvedė ieškojimas užsidirbti. Jai pavyko laimėti viename iš baltų apeigų žaidimų ir laimėjo 20 auksinių. Kiek metų?

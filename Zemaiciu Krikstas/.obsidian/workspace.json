@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "108631d7cca1938e",
+        "id": "bd412a5b7678fa20",
         "type": "tabs",
         "children": [
           {
-            "id": "ea3b3165e6074c6f",
+            "id": "1d7863e2848feb39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grupė/Severija Magna (Samanta).md",
+                "file": "Sesijos/Aktas I/Sesija 3 - Pasiuntinio Laiškas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Severija Magna (Samanta)"
-            }
-          },
-          {
-            "id": "66dc82e26c94148a",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": [],
-              "icon": "intiative-tracker-encounter-builder",
-              "title": "Encounter Builder"
-            }
-          },
-          {
-            "id": "4fd9eb31d2a0d630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesijos/Aktas I/Sesija 2 - Atgal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sesija 2 - Atgal"
+              "title": "Sesija 3 - Pasiuntinio Laiškas"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -102,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 408.5
   },
   "right": {
     "id": "d8bf2ba3ee46a72d",
@@ -257,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1098.5
+    "width": 584.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,93 +251,54 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "floating": {
-    "id": "220e5a4f1ee4fbb9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b39ed49dadb93b57",
-        "type": "window",
-        "children": [
-          {
-            "id": "fa7e08773c0d32c7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d4472a6090c05cbf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Muzika/Miškas.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Miškas"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 410,
-        "y": 21,
-        "width": 1222,
-        "height": 1120,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "4fd9eb31d2a0d630",
+  "active": "1d7863e2848feb39",
   "lastOpenFiles": [
-    "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md",
-    "Muzika/Miškas.md",
-    "Sesijos/Aktas I/Sesija 0.md",
-    "Sesijos/Aktas I/Idėjos.md",
-    "Grupė/Vėtra (Donata).md",
-    "Grupė/Thorn Shagar (Rokas).md",
-    "Grupė/Grimantas Akmenkuštis(Linas).md",
-    "Grupė/Severija Magna (Samanta).md",
-    "Grupė/Vėja Laumė Vilkė (Edita).md",
-    "Grupė/Vakarė (Agnė).md",
     "Muzika/Kelionė.md",
+    "Muzika/Gaudynės.md",
+    "Muzika/Garsai mixuoti su kitais.md",
+    "Muzika/Dievybės ar šventa.md",
+    "Sesijos/Aktas I/Sesija 3 - Pasiuntinio Laiškas.md",
+    "Sesijos/Praėją/Sesija I.md",
+    "Sesijos/Aktas I/Sesija 0.md",
+    "Muzika/Kaimas ar miestas.md",
     "Žemėlapiai/LDK XIV a. pradžioje - public.md",
     "Žemėlapiai/LDK XIV a. pradžioje - private.md",
-    "To print/Riverroad.jpeg",
-    "To print/Prison.jpeg",
     "Žemėlapiai/LDK XIV a. pradžioje - blank.md",
-    "Daiktai/Aušros grapštas.md",
-    "Muzika/Taverna.md",
     "Muzika/Juokinga.md",
     "Muzika/Dialogas.md",
-    "Rokas.md",
-    "Muzika/Kaimas ar miestas.md",
-    "Asmenybės/Vytautas.md",
-    "xImages/Agnė.jpg",
-    "To print/Sheets/DnD_5E_CharacterSheet_FormFillable.pdf",
-    "To print/Sheets/CS_ThornShagar_Print.pdf",
-    "To print/Sheets/CS_Samanta_Print.pdf",
-    "To print/Sheets",
-    "To print/Tavern.JPG",
-    "To print/Pilis-interior.JPG",
-    "To print/Medininkai.jpeg",
-    "To print/Edited-Oakwood.JPG",
-    "To print/CastleGate.JPG",
-    "To print/Split/Tavern-2.JPG",
-    "To print/Split/Tavern-1.JPG",
-    "To print/Split",
-    "To print/Tokens.docx",
-    "To print",
-    "New folder",
-    "xImages/attachments (1).zip",
-    "xImages/attachments.zip",
-    "1732949786818 - Kryžiuočio pagrobimas.md",
-    "Būtybės/Kaukas - variantas su karstu medyje.md",
-    "Untitled.canvas",
+    "Muzika/Bosas.md",
+    "Muzika/Miškas.md",
+    "Sesijos/Aktas I/Idėjos.md",
+    "Sesijos/Aktas I/Sesija 2 - Kryžiuotis pasiuntinys.md",
+    "xImages/Tokens/S3/token_7 (5).png",
+    "xImages/Tokens/S3/token_9 (5).png",
+    "xImages/Tokens/S3/token_8 (5).png",
+    "xImages/Tokens/S3/token_6 (5).png",
+    "xImages/Tokens/S3/token_5 (5).png",
+    "xImages/Tokens/S3/token_4 (4).png",
+    "xImages/Tokens/S3/token_3 (5).png",
+    "xImages/Tokens/S3/token_2 (5).png",
+    "xImages/Tokens/S3/token_2 (6).png",
+    "xImages/Tokens/S3/token_11 (5).png",
+    "xImages/Tokens/S3",
+    "xImages/Tokens",
+    "xImages/Party",
+    "xImages/Maps/S3/Rasterbation (5).pdf",
+    "xImages/Maps/S3/Rasterbation (6).pdf",
+    "xImages/Maps/S3/Rasterbation (4).pdf",
+    "xImages/Maps/S3/Rasterbation (3).pdf",
+    "xImages/Maps/S3",
+    "xImages/Maps/Memel_historisch.jfif",
+    "xImages/Maps",
+    "Sesijos/Praėją/Sesija II - Kryžiuotis pasiuntinys.md",
+    "Grupė/xThorn Shagar (Rokas) - DEAD.md",
+    "Grupė/Vykintas Girdenis (Rokas).md",
+    "1738182454074 - Combat.md",
+    "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md",
+    "Muzika/Kova.md",
+    "Sesijos/Aktas I/Sesija 3 - Paieškos.md",
     "2024-11-30.md",
-    "Būtybės/Kryžiuočių riteris.md",
-    "Būtybės/Pinčiukas.md"
+    "1732949786818 - Kryžiuočio pagrobimas.md",
+    "Untitled.canvas"
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "ITS@@select": "wotc-beyond",
+  "ITS@@drwn": false,
+  "ITS@@t-d": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@accent-color": false,
+  "ITS@@its-d": false,
+  "ITS@@notion": false,
+  "ITS@@mini": false,
+  "ITS@@writing-document": false,
+  "ITS@@paper": true,
+  "ITS@@writing": false,
+  "ITS@@disable-source-styling": false,
+  "pathfinder-2e-statblocks@@layout-theme-basic": "basic-pathfinder-2e-layout-theme-default",
+  "ITS@@radius-s": 0,
+  "ITS@@ITS-Sizes": "sizing-readable"
+}

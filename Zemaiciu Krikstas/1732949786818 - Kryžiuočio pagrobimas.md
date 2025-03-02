@@ -1,9 +1,34 @@
 Laumė added to the combat.
-Vėtra (Donata) initiative changed to 18
-Severija Magna (Samanta) initiative changed to 11
-Grimantas Stonefist (Linas) initiative changed to 3
-Edita initiative changed to 6
-Elenion (Agnė) initiative changed to 22
-Thorn Shagar (Rokas) initiative changed to 11
-Edita took 6 damage and was knocked unconscious. Laumė took 6 damage.
-Edita relieved of status Unconscious
+Guard, Guard, Guard, Guard, Cultist and Edita added to the combat.
+Guard, Guard, Guard, Guard, Cultist and Vėja Laumė Vilkė (Edita) added to the combat.
+Guard, Guard, Guard, Guard and Cultist added to the combat.
+Guard, Guard, Guard, Guard and Cultist added to the combat.
+Encounter HP & Statuses reset
+Laumė added to the combat.
+Laumė added to the combat.
+Laumė added to the combat.
+Laumė removed from the combat.
+Laumė removed from the combat.
+Laumė removed from the combat.
+Laumė removed from the combat.
+Kaukas I added to the combat.
+Awakened Shrub, Awakened Shrub and Awakened Tree added to the combat.
+Awakened Shrub added to the combat.
+Vykintas Girdenis (Rokas) added to the combat.
+ and  added to the combat.
+ and  added to the combat.
+ and  added to the combat.
+ and  added to the combat.
+ and  added to the combat.
+ and  added to the combat.
+ and  added to the combat.
+ and  added to the combat.
+ and  added to the combat.
+ and  added to the combat.
+Guard, Guard, Guard, Guard and Cultist added to the combat.
+Combat re-started
+Combat stopped
+Combat re-started
+Combat stopped
+Combat re-started
+Combat stopped

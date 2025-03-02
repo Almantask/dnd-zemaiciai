@@ -388,14 +388,175 @@
       }
     ],
     [
+      "Kaukas I",
+      {
+        "name": "Kaukas I",
+        "size": "Medium",
+        "type": "Fey",
+        "subtype": "None",
+        "alignment": "Chaotic Neutral",
+        "ac": 14,
+        "hp": 28,
+        "hit_dice": "5d8+5",
+        "speed": "30 ft.",
+        "stats": [
+          12,
+          14,
+          12,
+          10,
+          10,
+          15
+        ],
+        "fage_stats": [
+          1,
+          2,
+          1,
+          0,
+          0,
+          2
+        ],
+        "saves": [
+          {
+            "DEX": 4
+          },
+          {
+            "CHA": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "Deception": 4
+          },
+          {
+            "Perception": 2
+          },
+          {
+            "Stealth": 5
+          }
+        ],
+        "damage_vulnerabilities": "Radiant",
+        "damage_resistances": "Necrotic, Bludgeoning, Piercing, and Slashing from Nonmagical Attacks",
+        "damage_immunities": "None",
+        "condition_immunities": "None",
+        "senses": "Darkvision 60 ft., Passive Perception 12",
+        "languages": "Common, Sylvan",
+        "cr": 1,
+        "spells": [
+          {
+            "name": "Grave Sink (Recharge 5-6)",
+            "desc": "The Graveborn Boy digs a grave within 10 feet of itself, causing a creature in that area to make a DC 13 Strength saving throw or be restrained as the earth swallows them. The creature can use its action to make another Strength check to escape."
+          }
+        ],
+        "traits": [
+          {
+            "name": "Tree Refuge",
+            "desc": "The Graveborn Boy can merge into a tree trunk, becoming invisible and untargetable for up to 1 minute. While inside, it can attempt to pull a creature within 5 feet into the tree. The target must succeed on a DC 13 Dexterity saving throw or be trapped inside, taking 5 (1d10) necrotic damage per turn until they escape. The trapped creature can make a Strength (Athletics) check at the end of its turns to break free."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Grave Claws",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage."
+          },
+          {
+            "name": "Earthen Grip",
+            "desc": "Ranged Attack: +4 to hit, range 30 ft., one target. Hit: 8 (2d4 + 2) bludgeoning damage and the target must make a DC 12 Strength saving throw or be restrained for 1 turn."
+          }
+        ],
+        "legendary_actions": "None",
+        "reactions": "None"
+      }
+    ],
+    [
+      "Mountain Witch",
+      {
+        "name": "Mountain Witch",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "chaotic evil",
+        "ac": 13,
+        "hp": 49,
+        "hit_dice": "7d8+14",
+        "speed": "30 ft., climb 20 ft.",
+        "stats": [
+          10,
+          14,
+          14,
+          16,
+          12,
+          13
+        ],
+        "saves": [
+          {
+            "dexterity": 4
+          },
+          {
+            "intelligence": 5
+          }
+        ],
+        "senses": "darkvision 60 ft., passive Perception 13",
+        "languages": "Common, Primordial, Sylvan",
+        "damage_vulnerabilities": "radiant",
+        "damage_resistances": "cold, psychic, bludgeoning, piercing from nonmagical attacks",
+        "damage_immunities": "none",
+        "condition_immunities": "charmed, frightened",
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Mountain Veil",
+            "desc": "While standing on rocky or mountainous terrain, the witch can use her bonus action to become lightly obscured, granting creatures disadvantage on Perception checks to see her until the start of her next turn."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Clawing Curse",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage and the target must make a DC 12 Wisdom saving throw or suffer disadvantage on their next attack roll."
+          },
+          {
+            "name": "Shard Volley",
+            "desc": "Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 10 (2d8 + 2) piercing damage as jagged stones fly at the target."
+          },
+          {
+            "name": "Howling Winds (Recharge 5-6)",
+            "desc": "The witch conjures a storm of sharp winds and debris within 20 feet of herself. Creatures in the area must make a DC 13 Constitution saving throw or take 12 (3d6 + 3) slashing damage and be blinded until the end of their next turn."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Earthen Dodge",
+            "desc": "When a creature the witch can see attacks her, she can merge partially into the ground as a reaction, gaining +2 AC against the attack."
+          }
+        ],
+        "legendary_actions": [
+          "None"
+        ],
+        "spells": [
+          "The witch is a natural spellcaster, using Intelligence spell save DC 13, +5 hit.",
+          {
+            "Cantrips (at will)": "minor illusion, mold earth, thorn whip"
+          },
+          {
+            "1st level (3 slots)": "earth tremor, shield, thunderwave"
+          },
+          {
+            "2nd level (2 slots)": "mirror image, spike growth"
+          },
+          {
+            "3rd level (1 slot)": "erupting earth"
+          }
+        ]
+      }
+    ],
+    [
       "Level 2 Fighter",
       {
         "name": "Level 2 Fighter",
         "size": "Medium",
-        "type": "Humanoid",
-        "subtype": "Human",
-        "alignment": "Lawful Neutral",
-        "ac": "16 (Chain Mail, Shield)",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "lawful neutral",
+        "ac": "16 (chain mail, shield)",
         "hp": 20,
         "hit_dice": "2d10",
         "speed": "30 ft.",
@@ -407,198 +568,389 @@
           12,
           10
         ],
-        "fage_stats": [
-          3,
-          2,
-          2,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1
-        ],
         "saves": [
           {
-            "Strength": 5
+            "strength": 5
           },
           {
-            "Constitution": 4
+            "constitution": 4
           }
         ],
-        "skillsaves": [
+        "skills": [
           {
-            "Athletics": 5
+            "athletics": 5
           },
           {
-            "Perception": 3
+            "perception": 3
           }
         ],
-        "damage_vulnerabilities": "None",
-        "damage_resistances": "None",
-        "damage_immunities": "None",
-        "condition_immunities": "None",
-        "senses": "Passive Perception 13",
+        "damage_vulnerabilities": "none",
+        "damage_resistances": "none",
+        "damage_immunities": "none",
+        "condition_immunities": "none",
+        "senses": "passive Perception 13",
         "languages": "Common",
         "cr": "1/2",
         "spells": [
-          "None"
+          "none"
         ],
         "traits": [
-          [
-            {
-              "Fighting Style": "Defense"
-            },
-            "While the fighter is wearing armor",
-            "they gain a +1 bonus to AC."
-          ],
-          [
-            "Second Wind",
-            "The fighter can use a bonus action to regain hit points equal to 1d10 + 2 (once per short or long rest)."
-          ],
-          [
-            "Action Surge (1/short rest)",
-            "On their turn",
-            "the fighter can take one additional action. This can be used once per short or long rest."
-          ]
+          {
+            "name": "Fighting Style - Defense",
+            "desc": "While the fighter is wearing armor, they gain a +1 bonus to AC."
+          },
+          {
+            "name": "Second Wind",
+            "desc": "The fighter can use a bonus action to regain hit points equal to 1d10 + 2 (once per short or long rest)."
+          },
+          {
+            "name": "Action Surge (1/short rest)",
+            "desc": "On their turn, the fighter can take one additional action. This can be used once per short or long rest."
+          }
         ],
         "actions": [
-          [
-            "Longsword",
-            {
-              "Melee Weapon Attack": "+5 to hit"
-            },
-            "reach 5 ft.",
-            {
-              "one target. Hit": "1d8 + 3 slashing damage (1d10 + 3 if used with two hands)."
-            }
-          ],
-          [
-            "Shortbow",
-            {
-              "Ranged Weapon Attack": "+4 to hit"
-            },
-            "range 80/320 ft.",
-            {
-              "one target. Hit": "1d6 + 2 piercing damage."
-            }
-          ]
+          {
+            "name": "Spear",
+            "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 10 ft. (melee) or range 20/60 ft. (ranged), one target. Hit: 7 (1d8+2) piercing damage."
+          },
+          {
+            "name": "Shield Bash (Recharge 5-6)",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) bludgeoning damage and the target must succeed on a DC 12 Strength saving throw or be knocked prone."
+          },
+          {
+            "name": "Shortbow",
+            "desc": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6+2) piercing damage."
+          }
         ],
         "legendary_actions": [
-          "None"
+          "none"
         ],
         "reactions": [
-          "None"
+          "none"
         ]
       }
     ],
     [
-      "Laumė",
+      "Teutonic Spearman",
       {
-        "name": "Laumė",
+        "name": "Teutonic Spearman",
         "size": "Medium",
-        "type": "Fey",
-        "subtype": "None",
-        "alignment": "Chaotic Neutral",
-        "ac": 13,
-        "hp": 22,
-        "hit_dice": "4d8+4",
-        "speed": "30 ft., fly 30 ft.",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "lawful neutral",
+        "ac": "16 (chain mail, shield)",
+        "hp": 20,
+        "hit_dice": "2d10",
+        "speed": "30 ft.",
         "stats": [
-          10,
+          16,
           14,
-          12,
-          12,
+          14,
           10,
-          15
-        ],
-        "fage_stats": [
-          0,
-          2,
-          1,
-          1,
-          0,
-          2,
-          0,
-          0,
-          0
+          12,
+          10
         ],
         "saves": [
           {
-            "dex": 4
+            "strength": 5
           },
           {
-            "cha": 4
+            "constitution": 4
           }
         ],
-        "skillsaves": [
+        "skills": [
           {
-            "deception": 4
+            "athletics": 5
           },
           {
-            "perception": 2
-          },
-          {
-            "stealth": 4
+            "perception": 3
           }
         ],
-        "damage_vulnerabilities": "None",
-        "damage_resistances": "Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks",
-        "damage_immunities": "None",
-        "condition_immunities": "None",
-        "senses": "Darkvision 60 ft., Passive Perception 12",
-        "languages": "Common, Sylvan",
-        "cr": 0.5,
+        "damage_vulnerabilities": "none",
+        "damage_resistances": "none",
+        "damage_immunities": "none",
+        "condition_immunities": "none",
+        "senses": "passive Perception 13",
+        "languages": "Common",
+        "cr": "1/2",
         "spells": [
-          {
-            "Recharge 5-6": "Fey Charm (Charmed effect, DC 12 Wisdom)"
-          }
+          "none"
         ],
         "traits": [
-          [
-            "Fey Charm",
-            "The Laumė targets one creature it can see within 30 feet. The target must succeed on a DC 12 Wisdom saving throw or be charmed for 1 minute. While charmed",
-            "the target regards the Laumė as a trusted friend. The effect ends if the Laumė or its allies harm the target."
-          ],
-          [
-            "Nature's Grasp",
-            {
-              "1/Day": "As an action"
-            },
-            "the Laumė causes vines to sprout in a 10-foot radius centered on itself. Each creature in the area must succeed on a DC 12 Strength saving throw or be restrained by vines for 1 minute. A restrained creature can use its action to make a Strength (Athletics) check against the DC to free itself."
-          ]
+          {
+            "name": "Fighting Style - Defense",
+            "desc": "While the fighter is wearing armor, they gain a +1 bonus to AC."
+          },
+          {
+            "name": "Second Wind",
+            "desc": "The fighter can use a bonus action to regain hit points equal to 1d10 + 2 (once per short or long rest)."
+          },
+          {
+            "name": "Action Surge (1/short rest)",
+            "desc": "On their turn, the fighter can take one additional action. This can be used once per short or long rest."
+          }
         ],
         "actions": [
-          [
-            "Claw Attack",
-            {
-              "Melee Weapon Attack": "+4 to hit"
-            },
-            "reach 5 ft.",
-            {
-              "one target. Hit": "6 (1d6 + 2) slashing damage."
-            }
-          ],
-          [
-            "Mystic Bolt",
-            {
-              "Ranged Spell Attack": "+4 to hit"
-            },
-            "range 60 ft.",
-            {
-              "one target. Hit": "7 (2d4 + 2) force damage."
-            }
-          ],
-          [
-            "Mournful Wail",
-            {
-              "1/Day": "All creatures within 20 feet of the Laumė that can hear it must succeed on a DC 12 Wisdom saving throw or become frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns"
-            },
-            "ending the effect on itself on a success."
-          ]
+          {
+            "name": "Spear",
+            "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 10 ft. (melee) or range 20/60 ft. (ranged), one target. Hit: 7 (1d8+2) piercing damage."
+          },
+          {
+            "name": "Shield Bash (Recharge 5-6)",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) bludgeoning damage and the target must succeed on a DC 12 Strength saving throw or be knocked prone."
+          }
         ],
-        "legendary_actions": "None",
-        "reactions": "None"
+        "legendary_actions": [
+          "none"
+        ],
+        "reactions": [
+          "none"
+        ]
+      }
+    ],
+    [
+      "Teutonic Knight",
+      {
+        "name": "Teutonic Knight",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "lawful neutral",
+        "ac": "18 (plate, shield)",
+        "hp": 58,
+        "hit_dice": "9d8+18",
+        "speed": "30 ft.",
+        "stats": [
+          18,
+          12,
+          14,
+          11,
+          12,
+          13
+        ],
+        "saves": [
+          {
+            "strength": 6
+          },
+          {
+            "constitution": 5
+          }
+        ],
+        "skills": [
+          {
+            "athletics": 6
+          },
+          {
+            "perception": 3
+          },
+          {
+            "intimidation": 4
+          }
+        ],
+        "damage_vulnerabilities": "none",
+        "damage_resistances": "none",
+        "damage_immunities": "none",
+        "condition_immunities": "none",
+        "senses": "passive Perception 13",
+        "languages": "Common, Old Teutonic",
+        "cr": 3,
+        "spells": [
+          "none"
+        ],
+        "traits": [
+          {
+            "name": "Aura of Resolve",
+            "desc": "Friendly creatures within 10 feet of the knight gain advantage on saving throws against being frightened."
+          },
+          {
+            "name": "Relentless Vanguard",
+            "desc": "If the knight reduces a creature to 0 hit points, they can move up to 15 feet as a reaction without provoking opportunity attacks."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Longsword",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10+4) slashing damage, or 10 (1d12+4) if used with two hands."
+          },
+          {
+            "name": "Heavy Crossbow",
+            "desc": "Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. Hit: 7 (1d10+2) piercing damage."
+          },
+          {
+            "name": "Shield Bash (Recharge 5-6)",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6+4) bludgeoning damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Defensive Formation",
+            "desc": "When an ally within 5 feet of the knight is targeted by an attack, the knight can use their reaction to impose disadvantage on the attack roll."
+          }
+        ],
+        "legendary_actions": [
+          "none"
+        ]
+      }
+    ],
+    [
+      "Teutonic Archer",
+      {
+        "name": "Teutonic Archer",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "lawful neutral",
+        "ac": "14 (leather armor)",
+        "hp": 16,
+        "hit_dice": "4d6+4",
+        "speed": "30 ft.",
+        "stats": [
+          13,
+          16,
+          12,
+          10,
+          12,
+          10
+        ],
+        "saves": [
+          {
+            "dexterity": 5
+          },
+          {
+            "wisdom": 3
+          }
+        ],
+        "skills": [
+          {
+            "perception": 5
+          },
+          {
+            "stealth": 5
+          }
+        ],
+        "damage_vulnerabilities": "none",
+        "damage_resistances": "none",
+        "damage_immunities": "none",
+        "condition_immunities": "none",
+        "senses": "passive Perception 15",
+        "languages": "Common, Old Teutonic",
+        "cr": "1/2",
+        "spells": [
+          "none"
+        ],
+        "traits": [
+          {
+            "name": "Archer's Eye (2/Day)",
+            "desc": "As a bonus action, the archer can gain advantage on the next ranged weapon attack they make before the end of their turn."
+          },
+          {
+            "name": "Quick Draw",
+            "desc": "The archer can draw or stow a weapon as part of the same action they use to attack."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Shortbow",
+            "desc": "Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6+3) piercing damage."
+          },
+          {
+            "name": "Shortsword",
+            "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) slashing damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Step Back",
+            "desc": "When a creature moves within 5 feet of the archer, the archer can use their reaction to move 5 feet away without provoking opportunity attacks."
+          }
+        ],
+        "legendary_actions": [
+          "none"
+        ]
+      }
+    ],
+    [
+      "Samogitian Knight",
+      {
+        "name": "Samogitian Knight",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "chaotic neutral",
+        "ac": "16 (half plate)",
+        "hp": 45,
+        "hit_dice": "6d8+18",
+        "speed": "30 ft.",
+        "stats": [
+          18,
+          14,
+          14,
+          10,
+          12,
+          12
+        ],
+        "saves": [
+          {
+            "strength": 6
+          },
+          {
+            "dexterity": 4
+          }
+        ],
+        "skills": [
+          {
+            "athletics": 6
+          },
+          {
+            "intimidation": 4
+          },
+          {
+            "survival": 3
+          }
+        ],
+        "damage_vulnerabilities": "none",
+        "damage_resistances": "none",
+        "damage_immunities": "none",
+        "condition_immunities": "none",
+        "senses": "passive Perception 11",
+        "languages": "Common, Old Samogitian",
+        "cr": 2,
+        "spells": [
+          "none"
+        ],
+        "traits": [
+          {
+            "name": "Ferocious Charge",
+            "desc": "If the knight moves at least 20 feet straight toward a target and hits with a melee weapon attack on the same turn, the target takes an extra 7 (2d6) slashing damage and must succeed on a DC 14 Strength saving throw or be knocked prone."
+          },
+          {
+            "name": "Duelist Instinct",
+            "desc": "When the knight has no other creature within 5 feet of them except their target, their weapon attacks deal an extra 3 (1d6) damage."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Greatsword",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d6+5) slashing damage."
+          },
+          {
+            "name": "Throwing Axe (2/Day)",
+            "desc": "Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 8 (1d8+4) slashing damage."
+          },
+          {
+            "name": "Reckless Cleave (Recharge 5-6)",
+            "desc": "The knight swings wildly in a horizontal arc. Each creature within 5 feet of the knight must succeed on a DC 14 Dexterity saving throw or take 11 (2d6+4) slashing damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Parry",
+            "desc": "When a creature the knight can see hits them with a melee attack, the knight can use their reaction to add +2 to their AC against that attack."
+          }
+        ],
+        "legendary_actions": [
+          "none"
+        ]
       }
     ],
     [
