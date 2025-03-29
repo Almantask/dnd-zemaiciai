@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Sesija 3 - Pasiuntinio Laiškas"
             }
+          },
+          {
+            "id": "83c3be0c710d72ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesijos/Aktas I/Sesija 4 - Varniai Puolami.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesija 4 - Varniai Puolami"
+            }
+          },
+          {
+            "id": "ddac0d3be9e5da83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asmenybės/Markvard von Salzbach.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Markvard von Salzbach"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,15 +280,21 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "1d7863e2848feb39",
+  "active": "83c3be0c710d72ba",
   "lastOpenFiles": [
+    "Sesijos/Aktas I/Sesija 3 - Pasiuntinio Laiškas.md",
+    "Sesijos/Aktas I/Sesija 0.md",
+    "Sesijos/Aktas I/Sesija 4 - Varniai Puolami.md",
+    "Sesijos/Praėją/Sesija II - Kryžiuotis pasiuntinys.md",
+    "Sesijos/Praėją/Sesija I.md",
+    "Sesijos/Aktas I/Idėjos.md",
+    "Asmenybės/Markvard von Salzbach.md",
+    "Asmenybės/Jogaila.md",
+    "Sesijos/Aktas I/Sesija x.md",
     "Muzika/Kelionė.md",
     "Muzika/Gaudynės.md",
     "Muzika/Garsai mixuoti su kitais.md",
     "Muzika/Dievybės ar šventa.md",
-    "Sesijos/Aktas I/Sesija 3 - Pasiuntinio Laiškas.md",
-    "Sesijos/Praėją/Sesija I.md",
-    "Sesijos/Aktas I/Sesija 0.md",
     "Muzika/Kaimas ar miestas.md",
     "Žemėlapiai/LDK XIV a. pradžioje - public.md",
     "Žemėlapiai/LDK XIV a. pradžioje - private.md",
@@ -268,7 +303,6 @@
     "Muzika/Dialogas.md",
     "Muzika/Bosas.md",
     "Muzika/Miškas.md",
-    "Sesijos/Aktas I/Idėjos.md",
     "Sesijos/Aktas I/Sesija 2 - Kryžiuotis pasiuntinys.md",
     "xImages/Tokens/S3/token_7 (5).png",
     "xImages/Tokens/S3/token_9 (5).png",
@@ -290,15 +324,10 @@
     "xImages/Maps/S3",
     "xImages/Maps/Memel_historisch.jfif",
     "xImages/Maps",
-    "Sesijos/Praėją/Sesija II - Kryžiuotis pasiuntinys.md",
     "Grupė/xThorn Shagar (Rokas) - DEAD.md",
     "Grupė/Vykintas Girdenis (Rokas).md",
     "1738182454074 - Combat.md",
     "Sesijos/Aktas I/Sesija 1 - Kryžiuotis pasiuntinys.md",
-    "Muzika/Kova.md",
-    "Sesijos/Aktas I/Sesija 3 - Paieškos.md",
-    "2024-11-30.md",
-    "1732949786818 - Kryžiuočio pagrobimas.md",
     "Untitled.canvas"
   ]
 }

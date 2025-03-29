@@ -32,3 +32,4 @@ Combat re-started
 Combat stopped
 Combat re-started
 Combat stopped
+Teutonic Knight, Teutonic Spearman, Teutonic Spearman, Teutonic Spearman, Teutonic Spearman, Teutonic archer, Teutonic archer, Teutonic archer, Teutonic archer and Samogitian Knight added to the combat.
