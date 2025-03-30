@@ -109,7 +109,7 @@
     },
     {
       "id": "ldk-xiv-public",
-      "lastAccessed": 1740920598959,
+      "lastAccessed": 1743333693278,
       "markers": [
         {
           "id": "ID_fb2b296a28d8",
@@ -131,15 +131,15 @@
           "id": "ID_c88a4b89b87b",
           "type": "Someone key path",
           "loc": [
-            -2.3255207538604736,
-            8.778645992279053
+            -2.1953125,
+            8.5078125
           ],
           "layer": "%5B%5BLDK-map.jpeg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.8172121360085227,
-            0.253657142304338
+            0.792,
+            0.23945462292288028
           ],
           "description": "Pasiuntinys",
           "minZoom": 0,
@@ -166,15 +166,15 @@
           "id": "ID_7919aad8091a",
           "type": "Party current location",
           "loc": [
-            -2.2395832538604736,
-            8.63671875
+            -2.59375,
+            7.7421875
           ],
           "layer": "%5B%5BLDK-map.jpeg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.804,
-            0.24428347379134266
+            0.7207272727272728,
+            0.2829143587558585
           ],
           "description": "Jūs esat čia",
           "minZoom": null,

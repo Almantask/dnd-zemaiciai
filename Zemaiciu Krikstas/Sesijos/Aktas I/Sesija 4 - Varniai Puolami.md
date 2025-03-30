@@ -1,3 +1,21 @@
+Kovo 30.
+
+## Notes
+
+Atiduodat pinigus miesteliui.
+Pasiimat ginklus, o tą kryžiuotį vedat kaukui.
+
+Kryžiuotį paaukojat kaukui.
+Kaukas pasakė kad nueitų pas šatrijos raganą- ji duos magic itemų
+
+Nukeliaujat - šatrijos ragana  duoda užduotį: išgelbėti pūkį.
+Paaukojat kryžiuotį. Ragana parduoda invisibility potion.
+
+Calm emotions žinai burtas kad padėtų Vykintui. (agnė)
+
+Atjojot į Klaipėdą. Papirkot sargybinius.
+
+
 
 ## Iš miško tankmės
 ```audio-player
@@ -76,15 +94,7 @@ Jis giliai įkvepia, iškvepia su švilpimu, lyg plėštų jam šonkaulius.
 
 Jo balsas dreba. Akimirkai jis suklumpa, o jūs jį prilaikot. Aplink ratas išsisklaido – vietiniai šnabždasi, lanko rankas, vienas berniukas bėga parnešti vandens.
 
-Rumbaudas vos pakelia žvilgsnį. **Tai paskutinis dalykas, ko jis prašo.**
-
 – **„Pasakykit jam... kad ugnis čia jau dega. Jei jis nori nešt karūną, turi atsiminti, iš kur ji kyla.“**
-
-Jis ištiesia seną **sidabrinį žiedą – kuriame išgraviruotas _meškos simbolis_, žemaičių ženklas. Jo kraštai nublukę, bet vis dar ryškūs. Jis spaudžia jį jums į ranką.
-
-– **„Tai mano ženklas. Vytautas jį pažins. Jei ne – sakykit jam, kad Rumbaudas Valimanaitis neklaupė... kol jo žemė dar kvėpuos.“**
-
-**Rumbaudo delnas suglemba jūsų rankoje.** Sidabrinis žiedas – šiltas nuo jo kūno, netrukus – vėsta. Jo akys dar atsimerkusios, bet jose – jau ne nebėra tos ryškiai plieskančios aistros.
 
 Ir tada – **šauksmas.**
 
@@ -92,15 +102,39 @@ Ir tada – **šauksmas.**
 
 **Iš žmonių būrio prasiveržia siluetas – jaunas berniukas, gal dešimties, vilkintis apspurusiu kailiniu švarkeliu, ašarotomis akimis.**
 
-Jis žiūri į jus. Ne lyg vaikas žiūrėtų į suaugusius. **Jis žiūri kaip karys į karius.**
+## Vaikas apie mamą
 
-– _„Aš eisiu su jumis. Į ten, kur reikia. Pas Vytautą. Per miškus. Į ugnį, jei reiks.“_
+Jaunuolis klumpa šalia tėvo, apsikabina jį taip stipriai, tarsi bandytų sulaikyti pačią mirtį. Jo maži pirštai įsikimba į Rumbaudo apsiaustą, o kita ranka – ta, kuri laikė kažką prispaudusi prie krūtinės – pagaliau atsiveria.
 
-Vienas iš vietinių nori sulaikyti:
+Tai galvos apdangalas. Plonas, baltas, kažkada kvepėjęs ramunėlėmis ir lauko vėjais, dabar – suteptas krauju. Jo kraštai purvini, viename kampe – įplyšimas, lyg būtų griebtas ar plėštas. Vaiko akys ieško jūsų žvilgsnio, lyg ieškotų atsakymo į klausimą, kurio dar negali ištarti.
 
-– _„Jonai... tu dar vaikas...“_
+– **„Mama nebeatėjo...“** – kužda jis, ir tai pasigirsta tik dėl to, kad aplink tvyro tyla. Gniužulas gerklėje sustingsta, žmonės atsitraukia, o vėjas tik tyliai perbraukia per kraujuotą skarelę, lyg liudytų.
 
-Bet berniukas atsisega švarkelį, nuplėšia nuo jo mažą skiautę ir nuvalo ja kraujuotą tėvo veidą. Tada, padaręs mažą pauzę tyliai apsivynioja ją aplink ranką, ties riešu. Jis nieko nesako – bet skiautėje tamsuoja tėvo kraujas.
+Rumbaudas užsimerkia. Jo galva palinksta, bet jis dar kalba – tarsi per sūnaus prisilietimą semtųsi paskutinių jėgų.
+
+– **„Jos vardas buvo Miglė… Sakykit Vytautui – kad atsimintų. Ne tik ugnį. Ir vardus.“**
+
+Aplink sušlama žolė, kažkas maldaujančiai suklūpo, kažkas laiko ranką prie lūpų. Berniukas, Kęsgaila, spaudžia skarelę, lyg saugotų tai, kas liko iš viso pasaulio.
+
+## Tėvas sūnaus prašo
+
+-Mes taip nepaliksim. Keršto.
+
+-Sūnau, keliauk su jais - lai tai būna ženklas, kad aš jumis pasitikiu, kad tai aš, kad reikalai rimti. Vytautas tave pažins - juk jis tavo vardo tėvas.
+
+Berniukas sustingsta vietoje, lyg žaibas būtų trenkęs jam į krūtinę. Jo akys išsiplečia – tarp baimės, netikėjimo ir kažkokio giluminio supratimo. Jis pažvelgia į Rumbaudą – tėvą – tą, kuris vos laikosi gyvas, bet vis dar kalba kaip akmuo, kurio nepajudins nei ugnis, nei mirtis.
+
+Jo smakras ima virpėti. Ašaros veržiasi dar stipriau, bet jis jų nenusišluosto – eina lėtai, paskui greičiau, kol galiausiai puolasi į tėvo glėbį. Tyliai sušnibžda:
+
+– **„Aš bijau...“**
+
+Rumbaudas apkabina jį, tarsi perduodamas paskutinę dalį savęs. Jo balsas šiurkštus, bet švelnus:
+
+– **„Bijok, sūnau. Bet eik.“**
+
+Po akimirkos berniukas atsitiesia. Jis dar dreba, bet jo akyse jau spindi kita ugnis – nebe tik baimė, bet ir valia. Jis atsisuka į jus – svetimus, bet dabar jau savus – ir linkteli. Ne visai kaip vaikas, o kaip tas, kuris jau peržengė kažkokią ribą.
+
+– **„Veskit mane.“**
 
 ### Loot
 
@@ -112,6 +146,31 @@ Bet berniukas atsisega švarkelį, nuplėšia nuo jo mažą skiautę ir nuvalo j
     
 - **1x Healing salve** – kruopščiai laikomas moliniame indelyje (atkuria 2d4+2 HP)
 
+## Tardymas
+
+Aš – Markvardas, Viešpaties kareivis. Siųstas **didžiojo komtūro Heinricho von Wartenbergo**, paties magistro dešinės rankos. Atėjau į šias žemes ne savanaudiškai – bet su misija. Su šviesa.
+
+**[pauzė – jo akys slysta per klausytojus]**
+
+Jūs nežinot, ką darot. Vaikai garbina akmenis. Vyrai klaupiasi prieš medžius. Kraujas liejasi per aukas – o jūs vadinat tai tikėjimu?  
+Ne. Tai tamsa. Tai – šėtono pinklės.
+
+**[Jis kalba vis drąsiau, nors kūnas jo silpnas]**
+
+Aš nemačiau didesnio stebuklo nei kūdikio krikštas. Jūs manot, kad mūsų kalavijas žudo? Ne. Jis gydo. Išmuša puikybę, kad galėtumėt pažinti tikrąją malonę.
+
+**MARKVARDAS**  
+(karščiuodamasis)  
+Aš deginau ne kaimus – aš deginau nuodėmę. Jei žemė dega, tai todėl, kad jūsų protėviai ją užkrėtė stabais. Ir jeigu Dievas panorės, tegul per mano ranką ji atgimsta per pelenus.
+
+**[Jis nuleidžia galvą, tarsi maldai]**
+
+Jei mirsiu – tebūnie. Bet jei nors vienas jūsų priims Kristų dėl šios kelionės...  
+Tada aš tikrai gyvenau ne veltui.
+
+PASIUNTINYS
+Tu juos dar mokai? Jie tave žalojo. Jie mus traiškė kaip šunis.
+
 
 
 ## Pokalbiai prie laužo
@@ -121,7 +180,7 @@ https://looptube.io/?videoId=TK1Ij_-mank&start=0&end=246&rate=1
 Jūs keliaujat jau 3-ią parą. Rytas. Esate tankiame miške, kuris šlapias nuo rasos, pilnas tylių garsų – varnų, šnarančių lapų, kažkur tolumoje – genys kala medį. Jūs sustojat trumpam, tik trumpam – **ne ilsėtis**, o _atgauti kvapą_. Tuo tarpu jūsų jaunasis palydovas Kęsgaila pasiliko kiek toliau apžiūrinėti seno ąžuolo kamieną.
 
 
-Visgi po kelių minučių, Kęsgaila atsargiai prisiartina prie jūsų. Nešaukia, ne trukdo. Tiesiog _prisėda šalia_, ir žiūri į sau ant riešo apvyniota skiautę, raudoną nuo tėvo, jau sudžiuvusio kraujo.
+Visgi po kelių minučių, Kęsgaila atsargiai prisiartina prie jūsų. Nešaukia, ne trukdo. Tiesiog _prisėda šalia_, ir žiūri į sau ant riešo apvyniotą skiautę, raudoną nuo tėvo, jau sudžiuvusio kraujo.
 
 Tyla trunka.
 
@@ -133,22 +192,21 @@ Jo balsas tylus, beveik šnabždesys. Ne iš baimės, o iš... ilgesio.
 
 – _„Nors jie tada degė. Aš juos vis tiek sapnuoju visada tokius, kokie buvo anksčiau.“_
 
-Jo veide galima įžvelgti mažą šypseną.
+Jo veide galima įžvelgti mažą šypseną.  
 Jis pirštu braukia per samanomis nuklotą akmenį.
 
-– _„Tėvas kepdavo duoną. Kartais. Nors sakydavo, kad jo duona visada per kieta.“_  
-– _„Bet kai ją valgydavom, kartu, su kiaušiniu, sviestu – atrodo, nieko daugiau ir nereikia.“_
+– _„Mama kepdavo duoną. Kartais. Sakydavo, kad jos vis tiek niekas taip neskaniai valgo, kaip aš.“_  
+– _„O kai valgydavom – kartu, su kiaušiniu, sviestu – atrodydavo, nieko daugiau ir nereikia.“_
 
 Pauzė.
 
 – _„Ar jūs turėjot tokių vietų? Kur... viskas buvo paprasta. Kur nereikėjo kovot, bėgt. Kur... buvot tiesiog savimi.“_
 
-Jo balsas sudreba, bet jis sulaiko ašaras. Jis nenori būti silpnas. Jis nori _kalbėtis_.
+Jo balsas sudreba, bet jis sulaiko ašaras. Jis nenori būti silpnas. Jis nori _kalbėtis_.  
 **Jis žiūri į jus.** Tiesiai, nuoširdžiai. Jis kviečia jus ne į mūšį – į _žmogiškumą._
 
 <>
 
 – _„Aš galvoju... gal kada nors grįšim ten. Visi. Ne tik į tą vietą. Bet... į jausmą.“_
 
-
-
+10 min invicibility.

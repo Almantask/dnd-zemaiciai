@@ -1,3 +1,5 @@
+Sesijos data: kovo 2.
+
 Kur keliausit?
 
 Prisijungia Vykinta. Bet buvo kova.
